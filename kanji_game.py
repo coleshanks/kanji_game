@@ -11,6 +11,8 @@ def read_words(file):
     f.close()  # Close the file
     return words
 
+#def create_tuple_lists():
+
 def main():
     words = read_words(file_path)  # Call read_words and store the result in words
 
