@@ -44,6 +44,24 @@ def initialize_game():
 
     return random_word, random_reading  # Return as a tuple
 
+def game(word, reading):
+    while True:
+        print(word)
+        answer = input("Enter the reading\n")
+        if answer == reading:
+            print("correct!")
+        else:
+            print("incorrect! The correct reading is: ", reading)
+        choice = input("Would you like to keep playing? (yes/no)\n").strip().lower()
+        if choice in ['yes', 'y']:
+            print("next question")
+        elif choice in ['no', 'n']:
+            print("Thanks for playing!")
+            break
+        else:
+            print("Invalid input. Please type 'yes or no'")
+
+
 def main():
     while True:
         choice = input("Would you like to play kanji_game? (yes/no)\n").strip().lower()
@@ -55,6 +73,8 @@ def main():
             # For demonstration purposes, print the random word and reading
             print("Random Word:", random_word)
             print("Random Reading:", random_reading)
+
+            game(random_word, random_reading)
 
         elif choice in ['no', 'n']:
             print("Thanks for playing!")
