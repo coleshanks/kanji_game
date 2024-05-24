@@ -3,7 +3,23 @@
 import time
 import random
 
+import os
+import platform
+
+from tqdm import tqdm
+
 file_path = "/Users/coleshanks/Documents/GitHub/kanji_game/words.txt"
+
+
+def clear():
+    if platform.system() == "Windows":
+        os.system("cls")
+    else:
+        os.system("clear")
+
+def loading(duration=5):
+    for _ in tqdm(range(100), desc="Loading", ncols=100):
+        time.sleep(duration / 100)
 
 def read_words(file):
     words = []  # Initialize an empty array
@@ -24,29 +40,30 @@ def get_random_reading(readings_list, index):
 
 def initialize_game():
 
-    time.sleep(1)
-    print("Game is being initialized\n")
+    time.sleep(0.2)
+    print("The game is being initialized")
+
+    loading()
 
     words = read_words(file_path)  # Call read_words and store the result in words
     time.sleep(2)
-    print("Building words list...\n")
+    print("Building words list...")
 
     # Initialize empty lists for words and readings
     words_list = []
     readings_list = []
     time.sleep(1)
-    print("Building arrays...\n")
+    print("Building arrays...")
 
     # Simple for loop to iterate over the list of tuples
     for word, reading in words:
         words_list.append(word)  # Append the word to words_list
         readings_list.append(reading)  # Append the reading to readings_list
     time.sleep(0.8)
-    print("Reading words/readings into tuples...\n")
+    print("Reading words/readings into tuples...")
 
     # Generate a random index
     word_size = len(words_list)
-    print(word_size) #for debugging
     random_index = get_random_index(word_size)
 
     # Get random word and reading using the same index
@@ -54,7 +71,7 @@ def initialize_game():
     random_reading = get_random_reading(readings_list, random_index)
 
     time.sleep(3)
-    print("Initialization complete...\n")
+    print("Initialization complete...")
     time.sleep(0.3)
     print("Entering game state...\n")
 
@@ -69,25 +86,26 @@ def game(word_size, words_list, readings_list):
         word = get_random_word(words_list, index)
         reading = get_random_reading(readings_list, index)
 
+        print(word_size) #for debugging
         print("index:" + str(index) + " #for debugging purposes")
         print(word)
         answer = input("Enter the reading\n")
         if answer == reading:
             print("correct!\n")
             input("Press any key to continue...")
+            clear()
         elif answer in ['quit', 'q', 'Quit', 'Q']:
             break
         else:
             print("incorrect! The correct reading is: ", reading)
             input("\nPress any key to continue...")
+            clear()
 
 
 def main():
     while True:
         choice = input("Would you like to play kanji_game? (yes/no)\n").strip().lower()
         if choice in ['yes', 'y']:
-            print("The game is being initialized")
-            input("\nPress any key to continue...\n")
             word_size, words_list, readings_list = initialize_game()
 
             # For demonstration purposes, print the random word and reading
