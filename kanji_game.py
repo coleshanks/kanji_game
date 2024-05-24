@@ -48,15 +48,11 @@ def game(word_size, words_list, readings_list):
 
     print("Welcome to the kanji game. Enter 'quit' at any point to return to the main menu\n")
     while True:
-        print("hello")
 
         index = get_random_index(word_size)
         word = get_random_word(words_list, index)
         reading = get_random_reading(readings_list, index)
 
-
-        
-        word, reading = initialize_game()
         print(word)
         answer = input("Enter the reading\n")
         if answer == reading:
