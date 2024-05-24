@@ -2,14 +2,11 @@
 
 import time
 import random
-
 import os
 import platform
-
 from tqdm import tqdm
 
 file_path = "/Users/coleshanks/Documents/GitHub/kanji_game/words.txt"
-
 
 def clear():
     if platform.system() == "Windows":
@@ -78,6 +75,9 @@ def initialize_game():
     return word_size, words_list, readings_list  # Return as a tuple
 
 def game(word_size, words_list, readings_list):
+    BLUE = "\033[94m"
+    GREEN = "\033[92m"
+    RESET = "\033[0m"
 
     print("Welcome to the kanji game. Enter 'quit' at any point to return to the main menu\n")
     while True:
@@ -87,30 +87,25 @@ def game(word_size, words_list, readings_list):
         reading = get_random_reading(readings_list, index)
 
         print(word_size) #for debugging
-        print("index:" + str(index) + " #for debugging purposes")
-        print(word)
+        print(f"index: {index} #for debugging purposes")
+        print(f"{BLUE}{word}{RESET}")
         answer = input("Enter the reading\n")
         if answer == reading:
-            print("correct!\n")
+            print(f"{GREEN}correct!{RESET}\n")
             input("Press any key to continue...")
             clear()
         elif answer in ['quit', 'q', 'Quit', 'Q']:
             break
         else:
-            print("incorrect! The correct reading is: ", reading)
+            print(f"incorrect! The correct reading is: {GREEN}{reading}{RESET}")
             input("\nPress any key to continue...")
             clear()
-
 
 def main():
     while True:
         choice = input("Would you like to play kanji_game? (yes/no)\n").strip().lower()
         if choice in ['yes', 'y']:
             word_size, words_list, readings_list = initialize_game()
-
-            # For demonstration purposes, print the random word and reading
-            #print("Random Word:", random_word)
-            #print("Random Reading:", random_reading)
 
             game(word_size, words_list, readings_list)
 
