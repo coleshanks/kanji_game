@@ -110,10 +110,6 @@ def initialize_game():
     return word_size, words_list, readings_list  # Return as a tuple
 
 def game(word_size, words_list, readings_list):
-    BLUE = "\033[94m"
-    GREEN = "\033[92m"
-    RESET = "\033[0m"
-
     clear()
 
     print("Welcome to the kanji game. Enter 'quit' at any point to return to the main menu\n")
@@ -125,7 +121,7 @@ def game(word_size, words_list, readings_list):
 
         print(word_size) #for debugging
         print(f"index: {index} #for debugging purposes")
-        print(f"{BRIGHT_BLUE}{word}{RESET}")
+        print(f"{BLUE}{word}{RESET}")
         answer = input("Enter the reading\n")
         if answer == reading:
             print(f"{GREEN}correct!{RESET}\n")
@@ -137,7 +133,7 @@ def game(word_size, words_list, readings_list):
         elif answer in ['quit', 'q', 'Quit', 'Q']:
             break
         else:
-            print(f"{BRIGHT_RED}incorrect{RESET}! The correct reading is: ", reading)
+            print(f"{BRIGHT_RED}incorrect!{RESET} The correct reading is: ", reading)
             quit_game =input("Press any key to continue or enter 'q' to quit...\n")
             if quit_game in ['quit', 'q', 'Quit', 'Q']:
                 clear()
