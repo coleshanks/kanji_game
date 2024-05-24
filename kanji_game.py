@@ -6,6 +6,32 @@ import os
 import platform
 from tqdm import tqdm
 
+#Global variables
+# refer the table for colour code:
+# Text Color  Foreground Code
+# ANSI color codes
+BLACK = "\033[30m"
+RED = "\033[31m"
+GREEN = "\033[32m"
+YELLOW = "\033[33m"
+BLUE = "\033[34m"
+MAGENTA = "\033[35m"
+CYAN = "\033[36m"
+WHITE = "\033[37m"
+BRIGHT_BLACK = "\033[90m"
+BRIGHT_RED = "\033[91m"
+BRIGHT_GREEN = "\033[92m"
+BRIGHT_YELLOW = "\033[93m"
+BRIGHT_BLUE = "\033[94m"
+BRIGHT_MAGENTA = "\033[95m"
+BRIGHT_CYAN = "\033[96m"
+BRIGHT_WHITE = "\033[97m"
+
+# Reset color
+RESET = "\033[0m"
+
+
+
 file_path = "/Users/coleshanks/Documents/GitHub/kanji_game/words.txt"
 
 def clear():
@@ -99,7 +125,7 @@ def game(word_size, words_list, readings_list):
 
         print(word_size) #for debugging
         print(f"index: {index} #for debugging purposes")
-        print(f"{BLUE}{word}{RESET}")
+        print(f"{BRIGHT_BLUE}{word}{RESET}")
         answer = input("Enter the reading\n")
         if answer == reading:
             print(f"{GREEN}correct!{RESET}\n")
@@ -111,7 +137,7 @@ def game(word_size, words_list, readings_list):
         elif answer in ['quit', 'q', 'Quit', 'Q']:
             break
         else:
-            print(f"incorrect! The correct reading is: {GREEN}{reading}{RESET}")
+            print(f"{BRIGHT_RED}incorrect{RESET}! The correct reading is: ", reading)
             quit_game =input("Press any key to continue or enter 'q' to quit...\n")
             if quit_game in ['quit', 'q', 'Quit', 'Q']:
                 clear()
