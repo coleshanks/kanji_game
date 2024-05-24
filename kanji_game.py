@@ -23,22 +23,26 @@ def get_random_reading(readings_list, index):
     return readings_list[index]  # Return the reading at the given index
 
 def initialize_game():
+
     time.sleep(1)
     print("Game is being initialized\n")
 
-
-
-
     words = read_words(file_path)  # Call read_words and store the result in words
+    time.sleep(2)
+    print("Building words list...\n")
 
     # Initialize empty lists for words and readings
     words_list = []
     readings_list = []
+    time.sleep(1)
+    print("Building arrays...\n")
 
     # Simple for loop to iterate over the list of tuples
     for word, reading in words:
         words_list.append(word)  # Append the word to words_list
         readings_list.append(reading)  # Append the reading to readings_list
+    time.sleep(0.8)
+    print("Reading words/readings into tuples...\n")
 
     # Generate a random index
     word_size = len(words_list)
@@ -48,6 +52,11 @@ def initialize_game():
     # Get random word and reading using the same index
     random_word = get_random_word(words_list, random_index)
     random_reading = get_random_reading(readings_list, random_index)
+
+    time.sleep(3)
+    print("Initialization complete...\n")
+    time.sleep(0.3)
+    print("Entering game state...\n")
 
     return word_size, words_list, readings_list  # Return as a tuple
 
