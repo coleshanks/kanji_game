@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 
+import time
 import random
 
 file_path = "/Users/coleshanks/Documents/GitHub/kanji_game/words.txt"
@@ -22,6 +23,12 @@ def get_random_reading(readings_list, index):
     return readings_list[index]  # Return the reading at the given index
 
 def initialize_game():
+    time.sleep(1)
+    print("Game is being initialized\n")
+
+
+
+
     words = read_words(file_path)  # Call read_words and store the result in words
 
     # Initialize empty lists for words and readings
@@ -53,6 +60,7 @@ def game(word_size, words_list, readings_list):
         word = get_random_word(words_list, index)
         reading = get_random_reading(readings_list, index)
 
+        print("index:" + str(index) + " #for debugging purposes")
         print(word)
         answer = input("Enter the reading\n")
         if answer == reading:
@@ -84,7 +92,7 @@ def main():
             break
         else:
             print("Invalid input. Please type 'yes or no'")
-    print("Game over, thanks for playing\n")
+    print("Game over...\n")
 
 if __name__ == "__main__":
     main()
