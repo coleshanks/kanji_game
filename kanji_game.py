@@ -94,6 +94,7 @@ def game(word_size, words_list, readings_list):
             print(f"{GREEN}correct!{RESET}\n")
             quit_game =input("Press any key to continue...")
             if quit_game in ['quit', 'q', 'Quit', 'Q']:
+                clear()
                 break
             clear()
         elif answer in ['quit', 'q', 'Quit', 'Q']:
@@ -102,12 +103,12 @@ def game(word_size, words_list, readings_list):
             print(f"incorrect! The correct reading is: {GREEN}{reading}{RESET}")
             quit_game =input("Press any key to continue...")
             if quit_game in ['quit', 'q', 'Quit', 'Q']:
+                clear()
                 break
             clear()
 
 def main():
     while True:
-        clear()
         print("Welcome to the MAIN MENU\n")
         choice = input("Would you like to play kanji_game? (yes/no)\n").strip().lower()
         if choice in ['yes', 'y']:
