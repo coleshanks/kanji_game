@@ -42,24 +42,31 @@ def initialize_game():
     random_word = get_random_word(words_list, random_index)
     random_reading = get_random_reading(readings_list, random_index)
 
-    return random_word, random_reading  # Return as a tuple
+    return word_size, words_list, readings_list  # Return as a tuple
 
-def game(word, reading):
+def game(word_size, words_list, readings_list):
+
+    print("Welcome to the kanji game. Enter 'quit' at any point to return to the main menu\n")
     while True:
+        print("hello")
+
+        index = get_random_index(word_size)
+        word = get_random_word(words_list, index)
+        reading = get_random_reading(readings_list, index)
+
+
+        
+        word, reading = initialize_game()
         print(word)
         answer = input("Enter the reading\n")
         if answer == reading:
-            print("correct!")
-        else:
-            print("incorrect! The correct reading is: ", reading)
-        choice = input("Would you like to keep playing? (yes/no)\n").strip().lower()
-        if choice in ['yes', 'y']:
-            print("next question")
-        elif choice in ['no', 'n']:
-            print("Thanks for playing!")
+            print("correct!\n")
+            input("Press any key to continue...")
+        elif answer in ['quit', 'q', 'Quit', 'Q']:
             break
         else:
-            print("Invalid input. Please type 'yes or no'")
+            print("incorrect! The correct reading is: ", reading)
+            input("\nPress any key to continue...")
 
 
 def main():
@@ -68,19 +75,20 @@ def main():
         if choice in ['yes', 'y']:
             print("The game is being initialized")
             input("\nPress any key to continue...\n")
-            random_word, random_reading = initialize_game()
+            word_size, words_list, readings_list = initialize_game()
 
             # For demonstration purposes, print the random word and reading
-            print("Random Word:", random_word)
-            print("Random Reading:", random_reading)
+            #print("Random Word:", random_word)
+            #print("Random Reading:", random_reading)
 
-            game(random_word, random_reading)
+            game(word_size, words_list, readings_list)
 
         elif choice in ['no', 'n']:
             print("Thanks for playing!")
             break
         else:
             print("Invalid input. Please type 'yes or no'")
+    print("Game over, thanks for playing\n")
 
 if __name__ == "__main__":
     main()
