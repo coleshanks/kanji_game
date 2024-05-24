@@ -18,7 +18,7 @@ def clear():
         os.system("clear")
 
 def loading(duration=5):
-    for _ in tqdm(range(100), desc="Loading", ncols=100):
+    for _ in tqdm(range(10), desc="Building", ncols=100):
         time.sleep(duration / 100)
 
 def read_words(file):
