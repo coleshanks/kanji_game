@@ -32,7 +32,8 @@ RESET = "\033[0m"
 
 
 
-file_path = "/Users/coleshanks/Documents/GitHub/kanji_game/words.txt"
+default = "/Users/coleshanks/Documents/GitHub/kanji_game/words.txt"
+harder_difficulty = 
 
 def colour_test():
     print(f"\n{BLACK}Black Text{RESET}")
@@ -104,7 +105,7 @@ def loading_intro_screen():
 
 def initialize_game():
 
-    words = read_words(file_path)  # Call read_words and store the result in words
+    words = read_words(default)  # Call read_words and store the result in words
 
     # Initialize empty lists for words and readings
     words_list = []
