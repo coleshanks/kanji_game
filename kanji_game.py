@@ -60,8 +60,12 @@ def clear():
     else:
         os.system("clear")
 
-def loading(duration=5):
-    for _ in tqdm(range(10), desc="Building", ncols=100):
+# def loading(duration=5):
+#     for _ in tqdm(range(10), desc="Building", ncols=100):
+#         time.sleep(duration / 100)
+
+def loading(duration=5, color=GREEN):
+    for _ in tqdm(range(10), desc=f"{color}Building{RESET}", ncols=100, bar_format="{desc}: {percentage:3.0f}%|{bar}| {n}/{total}"):
         time.sleep(duration / 100)
 
 def read_words(file):
@@ -85,7 +89,10 @@ def loading_intro_screen():
     time.sleep(0.2)
     print("The game is being initialized")
 
-    loading()
+    # loading()
+
+    # Example usage
+    loading(color=BRIGHT_MAGENTA)  # You can change the color as needed
 
     time.sleep(2)
     print("Building words list...")
