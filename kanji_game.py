@@ -33,7 +33,7 @@ RESET = "\033[0m"
 
 
 default = "/Users/coleshanks/Documents/GitHub/kanji_game/words.txt"
-harder_difficulty = 
+harder_difficulty = "/Users/coleshanks/Documents/GitHub/kanji_game/harder_difficulty.txt"
 
 def colour_test():
     print(f"\n{BLACK}Black Text{RESET}")
@@ -105,7 +105,13 @@ def loading_intro_screen():
 
 def initialize_game():
 
-    words = read_words(default)  # Call read_words and store the result in words
+    difficulty_level = input("Enter easy or hard\n") #logic for invalid input still needed
+    if difficulty_level in ['easy']:
+            words = read_words(default)  # Call read_words and store the result in words
+    elif difficulty_level in ['hard']:
+            words = read_words(harder_difficulty)  # Call read_words and store the result in words
+
+    #words = read_words(default)  # Call read_words and store the result in words
 
     # Initialize empty lists for words and readings
     words_list = []
@@ -153,7 +159,7 @@ def game(word_size, words_list, readings_list):
         if answer == reading:
             score = score + 1
             print(f"{BRIGHT_GREEN}correct!{RESET}\n")
-            print("Score: %i/%i", score, count)
+            print(f"Score: {score}/{count}")
             quit_game =input("Press any key to continue or enter 'q' to quit...\n")
             if quit_game in ['quit', 'q', 'Quit', 'Q']:
                 clear()
@@ -163,6 +169,7 @@ def game(word_size, words_list, readings_list):
             break
         else:
             print(f"{BRIGHT_RED}incorrect!{RESET} The correct reading is: ", reading)
+            print(f"Score: {score}/{count}")
             quit_game =input("Press any key to continue or enter 'q' to quit...\n")
             if quit_game in ['quit', 'q', 'Quit', 'Q']:
                 clear()
