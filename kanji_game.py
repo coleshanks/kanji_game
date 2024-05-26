@@ -34,6 +34,25 @@ RESET = "\033[0m"
 
 file_path = "/Users/coleshanks/Documents/GitHub/kanji_game/words.txt"
 
+def colour_test():
+    print(f"\n{BLACK}Black Text{RESET}")
+    print(f"\n{RED}RED Text{RESET}")
+    print(f"\n{GREEN}GREEN Text{RESET}")
+    print(f"\n{YELLOW}YELLOW Text{RESET}")
+    print(f"\n{BLUE}BLUE Text{RESET}")
+    print(f"\n{MAGENTA}MAGENTA Text{RESET}")
+    print(f"\n{CYAN}CYAN Text{RESET}")
+    print(f"\n{WHITE}WHITE Text{RESET}")
+    print(f"\n{BRIGHT_BLACK}BRIGHT_BLACK Text{RESET}")
+    print(f"\n{BRIGHT_RED}BRIGHT_RED Text{RESET}")
+    print(f"\n{BRIGHT_GREEN}BRIGHT_GREEN Text{RESET}")
+    print(f"\n{BRIGHT_YELLOW}BRIGHT_YELLOW Text{RESET}")
+    print(f"\n{BRIGHT_BLUE}BRIGHT_BLUE Text{RESET}")
+    print(f"\n{BRIGHT_MAGENTA}BRIGHT_MAGENTA Text{RESET}")
+    print(f"\n{BRIGHT_CYAN}BRIGHT_CYAN Text{RESET}")
+    print(f"\n{BRIGHT_WHITE}BRIGHT_WHITE Text{RESET}")
+
+
 def clear():
     if platform.system() == "Windows":
         os.system("cls")
@@ -112,8 +131,15 @@ def initialize_game():
 def game(word_size, words_list, readings_list):
     clear()
 
+    score = 0
+    count = 0
+
     print("Welcome to the kanji game. Enter 'quit' at any point to return to the main menu\n")
+    #colour_test()
     while True:
+
+        count = count + 1
+
 
         index = get_random_index(word_size)
         word = get_random_word(words_list, index)
@@ -121,10 +147,12 @@ def game(word_size, words_list, readings_list):
 
         print(word_size) #for debugging
         print(f"index: {index} #for debugging purposes")
-        print(f"{BLUE}{word}{RESET}")
+        print(f"{BRIGHT_CYAN}{word}{RESET}")
         answer = input("Enter the reading\n")
         if answer == reading:
-            print(f"{GREEN}correct!{RESET}\n")
+            score = score + 1
+            print(f"{BRIGHT_GREEN}correct!{RESET}\n")
+            print("Score: %i/%i", score, count)
             quit_game =input("Press any key to continue or enter 'q' to quit...\n")
             if quit_game in ['quit', 'q', 'Quit', 'Q']:
                 clear()
@@ -141,6 +169,7 @@ def game(word_size, words_list, readings_list):
             clear()
 
 def main():
+    clear()
     while True:
         print("Welcome to the MAIN MENU\n")
         choice = input("Would you like to play kanji_game? (yes/no)\n").strip().lower()
