@@ -155,8 +155,8 @@ def game(word_size, words_list, readings_list):
     #colour_test()
     while True:
 
-        if score % 10 == 0:
-            print("Good work!! Keep it up")
+        if score in [10, 20, 30, 40, 50]:
+            print("Good work!! Keep it up\n\n")
 
         count = count + 1
 
@@ -177,9 +177,12 @@ def game(word_size, words_list, readings_list):
             if quit_game in ['quit', 'q', 'Quit', 'Q']:
                 clear()
                 print(f"Congratulations! Your score was: {score}/{count}")
+                input("Press any key to return to the main menu\n")
                 break
             clear()
         elif answer in ['quit', 'q', 'Quit', 'Q']:
+            print(f"Congratulations! Your score was: {score}/{count}")
+            input("Press any key to return to the main menu\n")
             break
         else:
             print(f"{BRIGHT_RED}incorrect!{RESET} The correct reading is: ", reading)
@@ -187,6 +190,8 @@ def game(word_size, words_list, readings_list):
             quit_game =input("Press any key to continue or enter 'q' to quit...\n")
             if quit_game in ['quit', 'q', 'Quit', 'Q']:
                 clear()
+                print(f"Congratulations! Your score was: {score}/{count}")
+                input("Press any key to return to the main menu\n")
                 break
             clear()
 
