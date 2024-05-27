@@ -175,29 +175,36 @@ def game(word_size, words_list, readings_list):
             print(f"Score: {score}/{count}")
             quit_game =input("Press any key to continue or enter 'q' to quit...\n")
             if quit_game in ['quit', 'q', 'Quit', 'Q']:
-                clear()
+                #clear()
                 print(f"Congratulations! Your score was: {score}/{count}")
-                input("Press any key to return to the main menu\n")
+                input("Press any key to return to the main menu...\n")
                 break
             clear()
         elif answer in ['quit', 'q', 'Quit', 'Q']:
             print(f"Congratulations! Your score was: {score}/{count}")
-            input("Press any key to return to the main menu\n")
+            input("Press any key to return to the main menu...\n")
             break
         else:
             print(f"{BRIGHT_RED}incorrect!{RESET} The correct reading is: ", reading)
             print(f"Score: {score}/{count}")
             quit_game =input("Press any key to continue or enter 'q' to quit...\n")
             if quit_game in ['quit', 'q', 'Quit', 'Q']:
-                clear()
+                #clear()
                 print(f"Congratulations! Your score was: {score}/{count}")
-                input("Press any key to return to the main menu\n")
+                input("Press any key to return to the main menu...\n")
                 break
             clear()
 
 def main():
-    clear()
+
     while True:
+        clear()
+        print("                             _ ")
+        print("  _  __    _      _   _     (_)  ___ ")
+        print(" | |/ /   / \    | \ | |    | | |_ _| ")
+        print(" | ' /   / _ \   |  \| |    | |  | | ")
+        print(" | . \  / ___ \  | . ` |   _| |  | |  ")
+        print(" |_|\_\/_/   \_\ |_| \_|  |___| |___| \n\n")
         print("Welcome to the MAIN MENU\n")
         choice = input("Would you like to play kanji_game? (yes/no)\n").strip().lower()
         if choice in ['yes', 'y']:
@@ -214,3 +221,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
