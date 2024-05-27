@@ -34,6 +34,7 @@ RESET = "\033[0m"
 
 default = "/Users/coleshanks/Documents/GitHub/kanji_game/words.txt"
 harder_difficulty = "/Users/coleshanks/Documents/GitHub/kanji_game/harder_difficulty.txt"
+very_hard = "/Users/coleshanks/Documents/GitHub/kanji_game/very_hard.txt"
 
 def colour_test():
     print(f"\n{BLACK}Black Text{RESET}")
@@ -117,6 +118,8 @@ def initialize_game():
             words = read_words(default)  # Call read_words and store the result in words
     elif difficulty_level in ['hard']:
             words = read_words(harder_difficulty)  # Call read_words and store the result in words
+    elif difficulty_level in ['very_hard']:
+        words = read_words(very_hard)  # Call read_words and store the result in words
 
     #words = read_words(default)  # Call read_words and store the result in words
 
