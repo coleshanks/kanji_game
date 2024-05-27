@@ -199,12 +199,11 @@ def main():
 
     while True:
         clear()
-        print("                             _ ")
-        print("  _  __    _      _   _     (_)  ___ ")
-        print(" | |/ /   / \    | \ | |    | | |_ _| ")
-        print(" | ' /   / _ \   |  \| |    | |  | | ")
-        print(" | . \  / ___ \  | . ` |   _| |  | |  ")
-        print(" |_|\_\/_/   \_\ |_| \_|  |___| |___| \n\n")
+        print(f"{BRIGHT_GREEN}  _  __    _      _   _     _   ___ {RESET}")
+        print(f"{BRIGHT_GREEN} | |/ /   / \    | \ | |   (_) |_ _| {RESET}")
+        print(f"{BRIGHT_GREEN} | ' /   / _ \   |  \| |   | |  | | {RESET}")
+        print(f"{BRIGHT_GREEN} | . \  / ___ \  | . ` |  _| |  | |  {RESET}")
+        print(f"{BRIGHT_GREEN} |_|\_\/_/   \_\ |_| \_| |___| |___| {RESET}\n\n")
         print("Welcome to the MAIN MENU\n")
         choice = input("Would you like to play kanji_game? (yes/no)\n").strip().lower()
         if choice in ['yes', 'y']:
