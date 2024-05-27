@@ -36,6 +36,9 @@ default = "/Users/coleshanks/Documents/GitHub/kanji_game/words.txt"
 harder_difficulty = "/Users/coleshanks/Documents/GitHub/kanji_game/harder_difficulty.txt"
 very_hard = "/Users/coleshanks/Documents/GitHub/kanji_game/very_hard.txt"
 
+# quote files below
+eld = "/Users/coleshanks/Documents/GitHub/kanji_game/quotes.txt"
+
 def colour_test():
     print(f"\n{BLACK}BLACK Text{RESET}\n{RED}RED Text{RESET}\n{GREEN}GREEN Text{RESET}\n{YELLOW}YELLOW Text{RESET}\n{BLUE}BLUE Text{RESET}\n{MAGENTA}MAGENTA Text{RESET}\n{CYAN}CYAN Text{RESET}\n{WHITE}WHITE Text{RESET}\n{BRIGHT_BLACK}BRIGHT_BLACK Text{RESET}\n{BRIGHT_RED}BRIGHT_RED Text{RESET}\n{BRIGHT_GREEN}BRIGHT_GREEN Text{RESET}\n{BRIGHT_YELLOW}BRIGHT_YELLOW Text{RESET}\n{BRIGHT_BLUE}BRIGHT_BLUE Text{RESET}\n{BRIGHT_MAGENTA}BRIGHT_MAGENTA Text{RESET}\n{BRIGHT_CYAN}BRIGHT_CYAN Text{RESET}\n{BRIGHT_WHITE}BRIGHT_WHITE Text{RESET}")
 
@@ -60,6 +63,33 @@ def read_words(file):
             word, reading = line.strip().split(',')  # Strip whitespace and split each line into word/reading
             words.append((word, reading))  # Add tuple to the words array
     return words
+
+def read_quotes(quote_file):
+    quotes = []  # Empty list
+
+    with open(quote_file, 'r', encoding='utf-8') as f:
+        lines = f.readlines()
+
+    for line in lines:
+        stripped_line = line.strip()
+        # Split on the last comma
+        last_comma_index = stripped_line.rfind(',')
+        quote = stripped_line[:last_comma_index]
+        character = stripped_line[last_comma_index + 1:]
+        quotes.append((quote, character.strip()))
+
+    # Initialize empty lists for words and readings
+    quotes_list = []
+    character_list = []
+
+    # Simple for loop to iterate over the list of tuples
+    for quote, character in quotes:
+        quotes_list.append(quote)  # Append the quote to quotes_list
+        character_list.append(character)  # Append the character to character_list
+
+    return quotes_list, character_list
+
+
 
 def get_random_index(size):
     return random.randint(0, size - 1)  # Generate a random index between 0 and size-1
@@ -124,13 +154,15 @@ def initialize_game():
     random_word = get_random_word(words_list, random_index)
     random_reading = get_random_reading(readings_list, random_index)
 
-    loading_intro_screen()
+    #loading_intro_screen()
 
 
     return word_size, words_list, readings_list  # Return as a tuple
 
 def game(word_size, words_list, readings_list):
     clear()
+
+    quote_list, character_list = read_quotes(eld)
 
     score = 0
     count = 0
@@ -141,6 +173,13 @@ def game(word_size, words_list, readings_list):
 
         if score in [10, 20, 30, 40, 50]:
             print("Good work!! Keep it up\n\n")
+
+        if score in [2, 4, 6, 8, 10]:
+            index = get_random_index(len(quote_list))
+            quote = get_random_word(quote_list, index)
+            character = get_random_reading(character_list, index)
+            print(f"{quote}\n")
+            print(f"- {character}\n")
 
         count = count + 1
 
