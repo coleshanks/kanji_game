@@ -155,6 +155,9 @@ def game(word_size, words_list, readings_list):
     #colour_test()
     while True:
 
+        if score % 10 == 0:
+            print("Good work!! Keep it up")
+
         count = count + 1
 
 
@@ -173,6 +176,7 @@ def game(word_size, words_list, readings_list):
             quit_game =input("Press any key to continue or enter 'q' to quit...\n")
             if quit_game in ['quit', 'q', 'Quit', 'Q']:
                 clear()
+                print(f"Congratulations! Your score was: {score}/{count}")
                 break
             clear()
         elif answer in ['quit', 'q', 'Quit', 'Q']:
