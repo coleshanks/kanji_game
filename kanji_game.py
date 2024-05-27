@@ -37,23 +37,7 @@ harder_difficulty = "/Users/coleshanks/Documents/GitHub/kanji_game/harder_diffic
 very_hard = "/Users/coleshanks/Documents/GitHub/kanji_game/very_hard.txt"
 
 def colour_test():
-    print(f"\n{BLACK}Black Text{RESET}")
-    print(f"\n{RED}RED Text{RESET}")
-    print(f"\n{GREEN}GREEN Text{RESET}")
-    print(f"\n{YELLOW}YELLOW Text{RESET}")
-    print(f"\n{BLUE}BLUE Text{RESET}")
-    print(f"\n{MAGENTA}MAGENTA Text{RESET}")
-    print(f"\n{CYAN}CYAN Text{RESET}")
-    print(f"\n{WHITE}WHITE Text{RESET}")
-    print(f"\n{BRIGHT_BLACK}BRIGHT_BLACK Text{RESET}")
-    print(f"\n{BRIGHT_RED}BRIGHT_RED Text{RESET}")
-    print(f"\n{BRIGHT_GREEN}BRIGHT_GREEN Text{RESET}")
-    print(f"\n{BRIGHT_YELLOW}BRIGHT_YELLOW Text{RESET}")
-    print(f"\n{BRIGHT_BLUE}BRIGHT_BLUE Text{RESET}")
-    print(f"\n{BRIGHT_MAGENTA}BRIGHT_MAGENTA Text{RESET}")
-    print(f"\n{BRIGHT_CYAN}BRIGHT_CYAN Text{RESET}")
-    print(f"\n{BRIGHT_WHITE}BRIGHT_WHITE Text{RESET}")
-
+    print(f"\n{BLACK}BLACK Text{RESET}\n{RED}RED Text{RESET}\n{GREEN}GREEN Text{RESET}\n{YELLOW}YELLOW Text{RESET}\n{BLUE}BLUE Text{RESET}\n{MAGENTA}MAGENTA Text{RESET}\n{CYAN}CYAN Text{RESET}\n{WHITE}WHITE Text{RESET}\n{BRIGHT_BLACK}BRIGHT_BLACK Text{RESET}\n{BRIGHT_RED}BRIGHT_RED Text{RESET}\n{BRIGHT_GREEN}BRIGHT_GREEN Text{RESET}\n{BRIGHT_YELLOW}BRIGHT_YELLOW Text{RESET}\n{BRIGHT_BLUE}BRIGHT_BLUE Text{RESET}\n{BRIGHT_MAGENTA}BRIGHT_MAGENTA Text{RESET}\n{BRIGHT_CYAN}BRIGHT_CYAN Text{RESET}\n{BRIGHT_WHITE}BRIGHT_WHITE Text{RESET}")
 
 def clear():
     if platform.system() == "Windows":
@@ -204,8 +188,8 @@ def main():
         print(f"{BRIGHT_GREEN} | ' /   / _ \   |  \| |   | |  | | {RESET}")
         print(f"{BRIGHT_GREEN} | . \  / ___ \  | . ` |  _| |  | |  {RESET}")
         print(f"{BRIGHT_GREEN} |_|\_\/_/   \_\ |_| \_| |___| |___| {RESET}\n\n")
-        print("Welcome to the MAIN MENU\n")
-        choice = input("Would you like to play kanji_game? (yes/no)\n").strip().lower()
+        print(f"{BRIGHT_BLUE}Welcome to the MAIN MENU{RESET}\n")
+        choice = input(f"{BRIGHT_RED}Would you like to play kanji_game? (yes/no){RESET}\n").strip().lower()
         if choice in ['yes', 'y']:
             word_size, words_list, readings_list = initialize_game()
 
