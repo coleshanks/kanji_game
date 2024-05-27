@@ -127,13 +127,15 @@ def loading_intro_screen():
 
 def initialize_game():
 
-    difficulty_level = input("Enter easy or hard\n") #logic for invalid input still needed
+    difficulty_level = input("Enter easy, hard or very_hard\n") #logic for invalid input still needed
     if difficulty_level in ['easy']:
             words = read_words(default)  # Call read_words and store the result in words
     elif difficulty_level in ['hard']:
             words = read_words(harder_difficulty)  # Call read_words and store the result in words
     elif difficulty_level in ['very_hard']:
         words = read_words(very_hard)  # Call read_words and store the result in words
+    else:
+        print("Invalid input. Please type 'yes or no'")
 
     #words = read_words(default)  # Call read_words and store the result in words
 
@@ -174,19 +176,20 @@ def game(word_size, words_list, readings_list):
         if score in [10, 20, 30, 40, 50]:
             print("Good work!! Keep it up\n\n")
 
-        if score in [2, 4, 6, 8, 10]:
-            index = get_random_index(len(quote_list))
-            quote = get_random_word(quote_list, index)
-            character = get_random_reading(character_list, index)
-            print(f"{quote}\n")
-            print(f"- {character}\n")
-
         count = count + 1
 
 
         index = get_random_index(word_size)
         word = get_random_word(words_list, index)
         reading = get_random_reading(readings_list, index)
+
+        index = get_random_index(len(quote_list))
+        quote = get_random_word(quote_list, index)
+        character = get_random_reading(character_list, index)
+
+        # if score in [2, 4, 6, 8, 10]:
+        #     print(f"{quote}\n")
+        #     print(f"- {character}\n")
 
         print(word_size) #for debugging
         print(f"index: {index} #for debugging purposes")
@@ -195,25 +198,35 @@ def game(word_size, words_list, readings_list):
         if answer == reading:
             score = score + 1
             print(f"{BRIGHT_GREEN}correct!{RESET}\n")
-            print(f"Score: {score}/{count}")
+            print(f"Score: {score}/{count}\n")
+            print(f"{quote}")
+            print(f"- {character}\n")
             quit_game =input("Press any key to continue or enter 'q' to quit...\n")
             if quit_game in ['quit', 'q', 'Quit', 'Q']:
                 #clear()
-                print(f"Congratulations! Your score was: {score}/{count}")
+                print(f"Congratulations! Your score was: {score}/{count}\n")
+                print(f"{quote}")
+                print(f"- {character}\n")
                 input("Press any key to return to the main menu...\n")
                 break
             clear()
         elif answer in ['quit', 'q', 'Quit', 'Q']:
-            print(f"Congratulations! Your score was: {score}/{count}")
+            print(f"Congratulations! Your score was: {score}/{count}\n")
+            print(f"{quote}")
+            print(f"- {character}\n")
             input("Press any key to return to the main menu...\n")
             break
         else:
             print(f"{BRIGHT_RED}incorrect!{RESET} The correct reading is: ", reading)
-            print(f"Score: {score}/{count}")
+            print(f"Score: {score}/{count}\n")
+            print(f"{quote}")
+            print(f"- {character}\n")
             quit_game =input("Press any key to continue or enter 'q' to quit...\n")
             if quit_game in ['quit', 'q', 'Quit', 'Q']:
                 #clear()
-                print(f"Congratulations! Your score was: {score}/{count}")
+                print(f"Congratulations! Your score was: {score}/{count}\n")
+                print(f"{quote}")
+                print(f"- {character}\n")
                 input("Press any key to return to the main menu...\n")
                 break
             clear()
@@ -222,9 +235,9 @@ def main():
 
     while True:
         clear()
-        print(f"{BRIGHT_GREEN}  _  __    _      _   _     _   ___ {RESET}")
+        print(f"{BRIGHT_GREEN}  _  __    _      _   _     _   ___  {RESET}")
         print(f"{BRIGHT_GREEN} | |/ /   / \    | \ | |   (_) |_ _| {RESET}")
-        print(f"{BRIGHT_GREEN} | ' /   / _ \   |  \| |   | |  | | {RESET}")
+        print(f"{BRIGHT_GREEN} | ' /   / _ \   |  \| |   | |  | |  {RESET}")
         print(f"{BRIGHT_GREEN} | . \  / ___ \  | . ` |  _| |  | |  {RESET}")
         print(f"{BRIGHT_GREEN} |_|\_\/_/   \_\ |_| \_| |___| |___| {RESET}\n\n")
         print(f"{BRIGHT_BLUE}Welcome to the MAIN MENU{RESET}\n")
