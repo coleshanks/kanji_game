@@ -56,6 +56,14 @@ def loading(duration=5, bar_color=GREEN, text_color=MAGENTA):
     for _ in tqdm(range(10), desc=f"{text_color}Building{RESET}", ncols=100, bar_format=f"{text_color}{{desc}}: {{percentage:3.0f}}%|{bar_color}{{bar}}{RESET}| {{n}}/{{total}}"):
         time.sleep(duration / 100)
 
+def title_screen():
+        print(f"{BRIGHT_GREEN}  _  __    _      _   _     _   ___  {RESET}")
+        print(f"{BRIGHT_GREEN} | |/ /   / \    | \ | |   (_) |_ _| {RESET}")
+        print(f"{BRIGHT_GREEN} | ' /   / _ \   |  \| |   | |  | |  {RESET}")
+        print(f"{BRIGHT_GREEN} | . \  / ___ \  | . ` |  _| |  | |  {RESET}")
+        print(f"{BRIGHT_GREEN} |_|\_\/_/   \_\ |_| \_| |___| |___| {RESET}\n\n")
+        print(f"{BRIGHT_BLUE}Welcome to the MAIN MENU{RESET}\n")
+
 def read_words(file):
     words = []  # Initialize an empty array
     with open(file, 'r', encoding='utf-8') as f:  # Opens the file and reads it into f with a utf-8 encoding
@@ -88,8 +96,6 @@ def read_quotes(quote_file):
         character_list.append(character)  # Append the character to character_list
 
     return quotes_list, character_list
-
-
 
 def get_random_index(size):
     return random.randint(0, size - 1)  # Generate a random index between 0 and size-1
@@ -231,12 +237,7 @@ def main():
 
     while True:
         clear()
-        print(f"{BRIGHT_GREEN}  _  __    _      _   _     _   ___  {RESET}")
-        print(f"{BRIGHT_GREEN} | |/ /   / \    | \ | |   (_) |_ _| {RESET}")
-        print(f"{BRIGHT_GREEN} | ' /   / _ \   |  \| |   | |  | |  {RESET}")
-        print(f"{BRIGHT_GREEN} | . \  / ___ \  | . ` |  _| |  | |  {RESET}")
-        print(f"{BRIGHT_GREEN} |_|\_\/_/   \_\ |_| \_| |___| |___| {RESET}\n\n")
-        print(f"{BRIGHT_BLUE}Welcome to the MAIN MENU{RESET}\n")
+        title_screen()
         choice = input(f"{BRIGHT_RED}Would you like to play kanji_game? (yes/no){RESET}\n").strip().lower()
         if choice in ['yes', 'y']:
             word_size, words_list, readings_list = initialize_game()
@@ -248,6 +249,7 @@ def main():
             break
         else:
             print("Invalid input. Please type 'yes or no'")
+            input("Press any key to continue...")
     print("Game over...\n")
 
 if __name__ == "__main__":
