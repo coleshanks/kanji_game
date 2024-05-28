@@ -156,7 +156,7 @@ def initialize_game():
     random_word = get_random_word(words_list, random_index)
     random_reading = get_random_reading(readings_list, random_index)
 
-    #loading_intro_screen()
+    loading_intro_screen()
 
 
     return word_size, words_list, readings_list  # Return as a tuple
@@ -205,8 +205,6 @@ def game(word_size, words_list, readings_list):
             if quit_game in ['quit', 'q', 'Quit', 'Q']:
                 #clear()
                 print(f"Congratulations! Your score was: {score}/{count}\n")
-                print(f"{quote}")
-                print(f"- {character}\n")
                 input("Press any key to return to the main menu...\n")
                 break
             clear()
@@ -225,8 +223,6 @@ def game(word_size, words_list, readings_list):
             if quit_game in ['quit', 'q', 'Quit', 'Q']:
                 #clear()
                 print(f"Congratulations! Your score was: {score}/{count}\n")
-                print(f"{quote}")
-                print(f"- {character}\n")
                 input("Press any key to return to the main menu...\n")
                 break
             clear()
