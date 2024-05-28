@@ -1,14 +1,13 @@
 #!/usr/bin/env python3
 
-import time
-import random
-import os
-import platform
-from tqdm import tqdm
+import time             # For python delay commands
+import random           # For generate rand index
+import os               # For clear()
+import platform         # For Mac/Windows
+from tqdm import tqdm   # For loading_bar
 
 #Global variables
-# refer the table for colour code:
-# Text Color  Foreground Code
+
 # ANSI color codes
 BLACK = "\033[30m"
 RED = "\033[31m"
@@ -26,12 +25,10 @@ BRIGHT_BLUE = "\033[94m"
 BRIGHT_MAGENTA = "\033[95m"
 BRIGHT_CYAN = "\033[96m"
 BRIGHT_WHITE = "\033[97m"
-
 # Reset color
 RESET = "\033[0m"
 
-
-
+# Path to files
 default = "/Users/coleshanks/Documents/GitHub/kanji_game/words.txt"
 harder_difficulty = "/Users/coleshanks/Documents/GitHub/kanji_game/harder_difficulty.txt"
 very_hard = "/Users/coleshanks/Documents/GitHub/kanji_game/very_hard.txt"
@@ -56,6 +53,7 @@ def loading(duration=5, bar_color=GREEN, text_color=MAGENTA):
     for _ in tqdm(range(10), desc=f"{text_color}Building{RESET}", ncols=100, bar_format=f"{text_color}{{desc}}: {{percentage:3.0f}}%|{bar_color}{{bar}}{RESET}| {{n}}/{{total}}"):
         time.sleep(duration / 100)
 
+# Generate title screen
 def title_screen():
         print(f"{BRIGHT_GREEN}  _  __    _      _   _     _   ___  {RESET}")
         print(f"{BRIGHT_GREEN} | |/ /   / \    | \ | |   (_) |_ _| {RESET}")
@@ -110,27 +108,20 @@ def loading_intro_screen():
     time.sleep(0.2)
     print("The game is being initialized")
 
-    # loading()
-
     # Example usage
     loading(bar_color=BRIGHT_CYAN, text_color=BRIGHT_MAGENTA)  # You can change the color as needed
 
     time.sleep(2)
     print("Building words list...")
-
     time.sleep(1)
     print("Building arrays...")
-
     time.sleep(0.8)
     print("Reading words/readings into tuples...")
-
     time.sleep(3)
     print("Initialization complete...")
-
     time.sleep(0.3)
     print("Entering game state...\n")
     
-
 def initialize_game():
 
     difficulty_level = input("Enter easy, hard or very_hard\n") #logic for invalid input still needed
@@ -238,6 +229,7 @@ def main():
     while True:
         clear()
         title_screen()
+        #colour_test()
         choice = input(f"{BRIGHT_RED}Would you like to play kanji_game? (yes/no){RESET}\n").strip().lower()
         if choice in ['yes', 'y']:
             word_size, words_list, readings_list = initialize_game()
