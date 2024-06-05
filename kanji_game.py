@@ -178,7 +178,7 @@ def initialize_game():
     random_reading = get_random_reading(readings_list, random_index)
     random_definition = get_random_definition(definitions_list, random_index)
 
-   # loading_intro_screen()
+    loading_intro_screen()
 
     return word_size, words_list, readings_list, definitions_list  # Return as a tuple
 
