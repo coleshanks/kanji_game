@@ -6,3 +6,7 @@ jisho/fetch_jisho_words.py
 jisho/remove_katakana_lines.py
 
 fetch_historical_words.py
+
+
+remove_hiragana_lines.py
+
