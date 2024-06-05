@@ -1,798 +1,798 @@
-眼鏡,めがね
-塩,しお
-黄色,きいろ
-灰皿,はいざら
-可愛い,かわいい
-音,おと
-赤ちゃん,あかちゃん
-玩具,おもちゃ
-商人,しょうにん
-国境,こっきょう
-少女,しょうじょ
-釣り,つり
-銃,じゅう
-保証,ほしょう
-年寄り,としより
-平均,へいきん
-雷,かみなり
-位置,いち
-日付,ひづけ
-天皇,てんのう
-屡々,しばしば
-鼠,ねずみ
-良い,よい
-此の,この
-誰,だれ
-作る,つくる
-貴方,あなた
-行く,いく
-終わる,おわる
-何の,どの
-余り,あまり
-面白い,おもしろい
-体,からだ
-弟,おとうと
-切り,きり
-暇,ひま
-明るい,あかるい
-始め,はじめ
-三,さん
-六,ろく
-其れ,それ
-迚も,とても
-此れ,これ
-何時も,いつも
-沢山,たくさん
-何処,どこ
-何方,どなた
-一寸,ちょっと
-何故,なぜ
-一日,いちにち
-如何して,どうして
-丁度,ちょうど
-綺麗,きれい
-然し,しかし
-色々,いろいろ
-美味しい,おいしい
-曲がる,まがる
-段々,だんだん
-彼処,あそこ
-煩い,うるさい
-詰らない,つまらない
-お祖母さん,おばあさん
-其方,そちら
-不味い,まずい
-お手洗い,おてあらい
-お巡りさん,おまわりさん
-其処,そこ
-農場,のうじょう
-惑星,わくせい
-矢,や
-尾,お
-百科事典,ひゃっかじてん
-地獄,じごく
-乗り換え,のりかえ
-津波,つなみ
-銅,どう
-引き分け,ひきわけ
-皇居,こうきょ
-歯磨き,はみがき
-仏像,ぶつぞう
-流通,りゅうつう
-冠,かんむり
-転々,てんてん
-見合い,みあい
-水源,すいげん
-海運,かいうん
-曖昧,あいまい
-梯子,はしご
-絨毯,じゅうたん
-茹でる,ゆでる
-錆,さび
-中指,なかゆび
-と,と
-螺子,ねじ
-黄金,おうごん
-子,こ
-怒る,おこる
-嬢,じょう
-振り,ふり
-落ちる,おちる
-楽しむ,たのしむ
-途中,とちゅう
-起こす,おこす
-死,し
-上がる,あがる
-説得,せっとく
-助言,じょげん
-理論,りろん
-怒り,いかり
-集まる,あつまる
-落とす,おとす
-秘書,ひしょ
-紳士,しんし
-証拠,しょうこ
-大事,だいじ
-下がる,さがる
-決まる,きまる
-選挙,せんきょ
-運命,うんめい
-運命,うんめい
-世,よ
-天才,てんさい
-富,とみ
-取引,とりひき
-階,かい
-危機,きき
-勝利,しょうり
-交渉,こうしょう
-予想,よそう
-距離,きょり
-政策,せいさく
-幽霊,ゆうれい
-洪水,こうずい
-同情,どうじょう
-航海,こうかい
-破壊,はかい
-自信,じしん
-世代,せだい
-投資,とうし
-殺人,さつじん
-資格,しかく
-投資,とうし
-小切手,こぎって
-反応,はんのう
-報道,ほうどう
-企画,きかく
-制服,せいふく
-賃金,ちんぎん
-暴力,ぼうりょく
-名誉,めいよ
-権力,けんりょく
-貧困,ひんこん
-保険,ほけん
-美,び
-妥協,だきょう
-孤独,こどく
-聖書,せいしょ
-昆虫,こんちゅう
-判決,はんけつ
-判決,はんけつ
-牧師,ぼくし
-向き,むき
-保護,ほご
-規制,きせい
-真ん中,まんなか
-着陸,ちゃくりく
-倒産,とうさん
-偏見,へんけん
-入浴,にゅうよく
-財政,ざいせい
-証言,しょうげん
-報酬,ほうしゅう
-予言,よげん
-動機,どうき
-革命,かくめい
-決断,けつだん
-人民,じんみん
-祈り,いのり
-自己,じこ
-暴動,ぼうどう
-昼間,ひるま
-改革,かいかく
-移民,いみん
-真珠,しんじゅ
-久しぶり,ひさしぶり
-妊娠,にんしん
-死刑,しけい
-災害,さいがい
-爆弾,ばくだん
-実業家,じつぎょうか
-民族,みんぞく
-燃料,ねんりょう
-人格,じんかく
-承諾,しょうだく
-権威,けんい
-伝説,でんせつ
-網,あみ
-悪,あく
-定義,ていぎ
-脳,のう
-認識,にんしき
-孤児,こじ
-圧力,あつりょく
-物体,ぶったい
-反乱,はんらん
-品質,ひんしつ
-体力,たいりょく
-植民地,しょくみんち
-福祉,ふくし
-芝,しば
-海峡,かいきょう
-宮殿,きゅうでん
-文書,ぶんしょ
-火星,かせい
-探検,たんけん
-戦闘,せんとう
-正義,せいぎ
-柱,はしら
-真理,しんり
-柱,はしら
-理性,りせい
-出血,しゅっけつ
-日焼け,ひやけ
-声明,せいめい
-条約,じょうやく
-闇,やみ
-関税,かんぜい
-職員,しょくいん
-固定,こてい
-憎しみ,にくしみ
-内閣,ないかく
-尿,にょう
-形態,けいたい
-本能,ほんのう
-思考,しこう
-概念,がいねん
-見積もり,みつもり
-視野,しや
-進化,しんか
-進化,しんか
-比例,ひれい
-根源,こんげん
-負債,ふさい
-転勤,てんきん
-独占,どくせん
-面会,めんかい
-看護,かんご
-資産,しさん
-恋愛,れんあい
-権限,けんげん
-電線,でんせん
-乱用,らんよう
-疲労,ひろう
-貴族,きぞく
-家出,いえで
-在庫,ざいこ
-運賃,うんちん
-定年,ていねん
-奉仕,ほうし
-腐敗,ふはい
-定年,ていねん
-救済,きゅうさい
-天国,てんごく
-扉,とびら
-退学,たいがく
-肺,はい
-遺跡,いせき
-潮,しお
-与党,よとう
-奉仕,ほうし
-固体,こたい
-統制,とうせい
-原子,げんし
-主食,しゅしょく
-喜劇,きげき
-人質,ひとじち
-人体,じんたい
-気質,きしつ
-得点,とくてん
-戦術,せんじゅつ
-実践,じっせん
-原子,げんし
-人質,ひとじち
-人体,じんたい
-介護,かいご
-設定,せってい
-得点,とくてん
-感染,かんせん
-証人,しょうにん
-家畜,かちく
-主人公,しゅじんこう
-斜面,しゃめん
-神秘,しんぴ
-堤防,ていぼう
-暗殺,あんさつ
-占領,せんりょう
-細胞,さいぼう
-脅迫,きょうはく
-模型,もけい
-神秘,しんぴ
-政権,せいけん
-脂肪,しぼう
-基金,ききん
-織物,おりもの
-清算,せいさん
-回路,かいろ
-君主,くんしゅ
-貨幣,かへい
-本質,ほんしつ
-抑圧,よくあつ
-天体,てんたい
-詐欺,さぎ
-中立,ちゅうりつ
-無効,むこう
-乱れる,みだれる
-刃,は
-襟,えり
-同調,どうちょう
-下痢,げり
-下痢,げり
-戯曲,ぎきょく
-世帯,せたい
-前提,ぜんてい
-強制,きょうせい
-漁船,ぎょせん
-調理,ちょうり
-墓地,ぼち
-仕様,しよう
-官僚,かんりょう
-教員,きょういん
-視覚,しかく
-照明,しょうめい
-作戦,さくせん
-枠,わく
-解除,かいじょ
-蜜,みつ
-財,ざい
-麻酔,ますい
-僧,そう
-財,ざい
-結晶,けっしょう
-麻酔,ますい
-蜜,みつ
-聴覚,ちょうかく
-発作,ほっさ
-映像,えいぞう
-驚異,きょうい
-分子,ぶんし
-街道,かいどう
-鉛,なまり
-反射,はんしゃ
-小売,こうり
-共鳴,きょうめい
-融資,ゆうし
-錯覚,さっかく
-化石,かせき
-怪獣,かいじゅう
-兵器,へいき
-差異,さい
-潜水,せんすい
-怪獣,かいじゅう
-繊維,せんい
-戸籍,こせき
-行政,ぎょうせい
-融資,ゆうし
-合唱,がっしょう
-差異,さい
-株式,かぶしき
-地形,ちけい
-気象,きしょう
-棄権,きけん
-音色,ねいろ
-共鳴,きょうめい
-旅客,りょかく
-義理,ぎり
-処罰,しょばつ
-農地,のうち
-主体,しゅたい
-刑罰,けいばつ
-主体,しゅたい
-刑罰,けいばつ
-封鎖,ふうさ
-軍事,ぐんじ
-花粉,かふん
-送金,そうきん
-給食,きゅうしょく
-炭素,たんそ
-修士,しゅうし
-楽譜,がくふ
-同志,どうし
-茎,くき
-窒息,ちっそく
-参議院,さんぎいん
-格,かく
-岩石,がんせき
-溶液,ようえき
-沼,ぬま
-手錠,てじょう
-演出,えんしゅつ
-規範,きはん
-茎,くき
-衛生,えいせい
-送金,そうきん
-同志,どうし
-味覚,みかく
-光沢,こうたく
-織り,おり
-書評,しょひょう
-定食,ていしょく
-居住,きょじゅう
-粥,かゆ
-再建,さいけん
-品種,ひんしゅ
-星座,せいざ
-雪崩,なだれ
-結核,けっかく
-三味線,しゃみせん
-捕鯨,ほげい
-保守,ほしゅ
-衆議院,しゅうぎいん
-多数決,たすうけつ
-盾,たて
-偽造,ぎぞう
-書評,しょひょう
-舗装,ほそう
-鉄棒,てつぼう
-燃焼,ねんしょう
-結核,けっかく
-混血,こんけつ
-再建,さいけん
-鳥居,とりい
-自我,じが
-雪崩,なだれ
-品種,ひんしゅ
-執着,しゅうちゃく
-定食,ていしょく
-風俗,ふうぞく
-保守,ほしゅ
-地主,じぬし
-根回し,ねまわし
-合成,ごうせい
-呉れる,くれる
-積もり,つもり
-殆ど,ほとんど
-酷い,ひどい
-屹度,きっと
-筈,はず
-暫く,しばらく
-確り,しっかり
-新,しん
-為さる,なさる
-角,かく
-込む,こむ
-それ程,それほど
-偶に,たまに
-無知,むち
-些とも,ちっとも
-崖,がけ
-嫉妬,しっと
-混同,こんどう
-成るべく,なるべく
-顎,あご
-苛める,いじめる
-藁,わら
-蕾,つぼみ
-無口,むくち
-蜂蜜,はちみつ
-夕焼け,ゆうやけ
-杖,つえ
-語彙,ごい
-麻痺,まひ
-現像,げんぞう
-片思い,かたおもい
-逆立ち,さかだち
-直感,ちょっかん
-満月,まんげつ
-班,はん
-貝殻,かいがら
-元素,げんそ
-名札,なふだ
-裸足,はだし
-畜生,ちくしょう
-滴,しずく
-模倣,もほう
-近視,きんし
-器官,きかん
-海流,かいりゅう
-略語,りゃくご
-助詞,じょし
-暗示,あんじ
-炬燵,こたつ
-降水,こうすい
-地方,ちほう
-壺,つぼ
-時刻表,じこくひょう
-刺繍,ししゅう
-香辛料,こうしんりょう
-何も,なにも
-他人,たにん
-賛成,さんせい
-現れる,あらわれる
-出会う,であう
-辺り,あたり
-素敵,すてき
-一言,ひとこと
-乗客,じょうきゃく
-恐らく,おそらく
-傷,きず
-従って,したがって
-現場,げんば
-働き,はたらき
-姉妹,しまい
-可哀想,かわいそう
-度々,たびたび
-見舞い,みまい
-女子,じょし
-審判,しんぱん
-幕,まく
-係,かかり
-誠に,まことに
-現れ,あらわれ
-仕舞う,しまう
-可也,かなり
-凡ゆる,あらゆる
-丸で,まるで
-如何しても,どうしても
-喋る,しゃべる
-何時でも,いつでも
-例え,たとえ
-益々,ますます
-済みません,すみません
-或る,ある
-正に,まさに
-お喋り,おしゃべり
-所謂,いわゆる
-宜しく,よろしく
-軈て,やがて
-詰まり,つまり
-兎に角,とにかく
-苛々,いらいら
-其のまま,そのまま
-悪戯,いたずら
-堪らない,たまらない
-態と,わざと
-何時までも,いつまでも
-若しも,もしも
-凡そ,およそ
-不図,ふと
-即ち,すなわち
-可愛らしい,かわいらしい
-我儘,わがまま
-その内,そのうち
-頻りに,しきりに
-稍,やや
-唸る,うなる
-頂きます,いただきます
-仕舞った,しまった
-箪笥,たんす
-これ等,これら
-上手い,うまい
-自転,じてん
-葦,あし
-風車,ふうしゃ
-手芸,しゅげい
-絶版,ぜっぱん
-年鑑,ねんかん
-浮力,ふりょく
-暗算,あんざん
-聴診器,ちょうしんき
-映写,えいしゃ
-けど,けど
-間もなく,まもなく
-耐える,たえる
-上司,じょうし
-少なくとも,すくなくとも
-押さえる,おさえる
-知り合い,しりあい
-相変わらず,あいかわらず
-率直,そっちょく
-殴る,なぐる
-慌てる,あわてる
-何とも,なんとも
-当たり前,あたりまえ
-手元,てもと
-話し合い,はなしあい
-一切,いっさい
-締め切り,しめきり
-不当,ふとう
-一定,いってい
-重役,じゅうやく
-箇所,かしょ
-寒気,さむけ
-果たして,はたして
-割引,わりびき
-開拓,かいたく
-気配,けはい
-一々,いちいち
-売れ行き,うれゆき
-受取り,うけとり
-受取り,うけとり
-対立,たいりつ
-田園,でんえん
-近々,ちかぢか
-家主,やぬし
-鉱山,こうざん
-何しろ,なにしろ
-振興,しんこう
-物置,ものおき
-万能,ばんのう
-無線,むせん
-円満,えんまん
-出入り口,でいりぐち
-市街,しがい
-付属,ふぞく
-消耗,しょうもう
-騙す,だます
-付き合う,つきあう
-当てはまる,あてはまる
-浮かぶ,うかぶ
-矢っ張り,やっぱり
-引き受ける,ひきうける
-その上,そのうえ
-捉える,とらえる
-替わる,かわる
-零れる,こぼれる
-溢れる,あふれる
-零す,こぼす
-酸っぱい,すっぱい
-寄越す,よこす
-躊躇う,ためらう
-惨め,みじめ
-遡る,さかのぼる
-是非とも,ぜひとも
-独りでに,ひとりでに
-大人しい,おとなしい
-喧しい,やかましい
-忽ち,たちまち
-兎も角,ともかく
-剃る,そる
-尻尾,しっぽ
-怒鳴る,どなる
-遠方,えんぽう
-可愛がる,かわいがる
-躓く,つまずく
-済まない,すまない
-傾く,かたむく
-図々しい,ずうずうしい
-爽やか,さわやか
-嵌める,はめる
-返る,かえる
-目茶苦茶,めちゃくちゃ
-行き成り,いきなり
-背負う,せおう
-下らない,くだらない
-お早う,おはよう
-勿体ない,もったいない
-呉れ呉れも,くれぐれも
-痒い,かゆい
-花壇,かだん
-いつの間にか,いつのまにか
-ご無沙汰,ごぶさた
-打ち合わせ,うちあわせ
-何となく,なんとなく
-目眩,めまい
-お休み,おやすみ
-愈,いよいよ
-出鱈目,でたらめ
-若しかしたら,もしかしたら
-お洒落,おしゃれ
-巫山戯る,ふざける
-当てはめる,あてはめる
-見っとも無い,みっともない
-眩しい,まぶしい
-所々,ところどころ
-剥がす,はがす
-拵える,こしらえる
-大雑把,おおざっぱ
-瞼,まぶた
-吊るす,つるす
-目出度い,めでたい
-お八つ,おやつ
-萎む,しぼむ
-諄い,くどい
-十字路,じゅうじろ
-跨ぐ,またぐ
-慌ただしい,あわただしい
-組み合わせ,くみあわせ
-若しかすると,もしかすると
-偏る,かたよる
-俄,にわか
-馬鹿らしい,ばからしい
-坊ちゃん,ぼっちゃん
-饂飩,うどん
-書き取り,かきとり
-倣う,ならう
-団扇,うちわ
-吃逆,しゃっくり
-ご苦労様,ごくろうさま
-畏まりました,かしこまりました
-坊ちゃん,ぼっちゃん
-お願いします,おねがいします
-沁み沁み,しみじみ
-やむを得ない,やむをえない
-お先に,おさきに
-じゃん拳,じゃんけん
-木綿,もめん
-丈,たけ
-何と,なんと
-俺,おれ
-助け,たすけ
-真実,しんじつ
-傍ら,かたわら
-同意,どうい
-事業,じぎょう
-勤勉,きんべん
-確信,かくしん
-本の,ほんの
-行為,こうい
-興奮,こうふん
-非難,ひなん
-受け入れる,うけいれる
-貧乏,びんぼう
-兵士,へいし
-賢明,けんめい
-犠牲,ぎせい
-過ぎ,すぎ
-申し出,もうしで
-支持,しじ
-見込み,みこみ
-立ち寄る,たちよる
-勝る,まさる
-匹,ひき
-直面,ちょくめん
-当て,あて
-癌,がん
-廃止,はいし
-余地,よち
-一部,いちぶ
-発言,はつげん
-上昇,じょうしょう
-告げる,つげる
-従業員,じゅうぎょういん
-襲う,おそう
-何より,なにより
-達成,たっせい
-言い訳,いいわけ
-誠実,せいじつ
-侮辱,ぶじょく
-負う,おう
-資金,しきん
-対処,たいしょ
-指摘,してき
-曲,きょく
-保つ,たもつ
-従事,じゅうじ
-昇進,しょうしん
-素早い,すばやい
-提供,ていきょう
-退職,たいしょく
-提供,ていきょう
-拒否,きょひ
-浪費,ろうひ
-討論,とうろん
-驚き,おどろき
-抗議,こうぎ
-詳細,しょうさい
-真相,しんそう
-広まる,ひろまる
-負傷,ふしょう
-本気,ほんき
-日々,ひび
-指示,しじ
-沈黙,ちんもく
-及ぶ,およぶ
-誘惑,ゆうわく
-採用,さいよう
-部下,ぶか
-忠実,ちゅうじつ
-設立,せつりつ
-一面,いちめん
-尚,なお
-成り立つ,なりたつ
-事柄,ことがら
-満たす,みたす
-扱い,あつかい
-過ち,あやまち
-控える,ひかえる
-損失,そんしつ
-辞職,じしょく
-実,じつ
-逃れる,のがれる
-時折,ときおり
-赤字,あかじ
-開発,かいはつ
-緊急,きんきゅう
-行い,おこない
-出世,しゅっせ
-購入,こうにゅう
+眼鏡,めがね,glasses, eyeglasses, spectacles
+塩,しお,salt, common salt, table salt, sodium chloride
+黄色,きいろ,yellow, amber
+灰皿,はいざら,ashtray
+可愛い,かわいい,cute, adorable, charming, lovely, pretty
+音,おと,sound, noise
+赤ちゃん,あかちゃん,baby, infant
+玩具,おもちゃ,toy
+商人,しょうにん,merchant, trader, tradesman, dealer, shopkeeper
+国境,こっきょう,border (between countries), national border
+少女,しょうじょ,girl (usu. between 7 and 17), young lady
+釣り,つり,fishing, angling
+銃,じゅう,gun, rifle, small arms
+保証,ほしょう,guarantee, security, assurance, pledge
+年寄り,としより,old person, elderly person, senior citizen
+平均,へいきん,average, mean
+雷,かみなり,lightning, thunder, thunderbolt
+位置,いち,place, position, location
+日付,ひづけ,date, dating
+天皇,てんのう,Emperor of Japan
+屡々,しばしば,often, again and again, frequently, repeatedly
+鼠,ねずみ,mouse, rat
+良い,よい,good, excellent, fine, nice, pleasant, agreeable
+此の,この,this
+誰,だれ,who
+作る,つくる,to make, to produce, to manufacture, to build, to construct
+貴方,あなた,you
+行く,いく,to go, to move (towards), to head (towards), to leave (for)
+終わる,おわる,to end, to come to an end, to finish, to close, to be over
+何の,どの,which, what (way)
+余り,あまり,remainder, remnant, rest, balance, surplus, remains (of a meal), leftovers
+面白い,おもしろい,interesting, fascinating, intriguing, enthralling
+体,からだ,body
+弟,おとうと,younger brother, little brother, kid brother
+切り,きり,end, finish, place to stop
+暇,ひま,spare time, free time, leisure
+明るい,あかるい,light, well-lit, well-lighted
+始め,はじめ,beginning, start, outset, opening
+三,さん,three, 3
+六,ろく,six, 6
+其れ,それ,that, it
+迚も,とても,very, awfully, exceedingly
+此れ,これ,this, this one
+何時も,いつも,always, all the time, at all times
+沢山,たくさん,a lot, lots, plenty, many, a large number, much, a great deal, a good deal
+何処,どこ,where, what place
+何方,どなた,who
+一寸,ちょっと,a little, a bit, slightly
+何故,なぜ,why, how, for what reason
+一日,いちにち,one day
+如何して,どうして,how, in what way, by what means
+丁度,ちょうど,exactly, precisely, just, right, opportunely, fortunately
+綺麗,きれい,pretty, lovely, beautiful, fair
+然し,しかし,however, but
+色々,いろいろ,various, a variety of, all sorts of, many (different)
+美味しい,おいしい,good(-tasting), nice, delicious, tasty
+曲がる,まがる,to bend, to curve, to warp, to wind, to twist
+段々,だんだん,gradually, by degrees, little by little, more and more, increasingly
+彼処,あそこ,there, over there, that place, yonder, you-know-where
+煩い,うるさい,noisy, loud
+詰らない,つまらない,dull, uninteresting, boring, tedious
+お祖母さん,おばあさん,grandmother
+其方,そちら,that way, that direction
+不味い,まずい,bad (taste), unpalatable, unsavoury, unsavory, awful, terrible, unpleasant
+お手洗い,おてあらい,toilet, restroom, lavatory, bathroom
+お巡りさん,おまわりさん,police officer
+其処,そこ,there (place relatively near listener)
+農場,のうじょう,farm (agriculture)
+惑星,わくせい,planet
+矢,や,arrow
+尾,お,tail (of an animal), cauda
+百科事典,ひゃっかじてん,encyclopedia, encyclopaedia
+地獄,じごく,hell realm, Naraka
+乗り換え,のりかえ,transfer (trains, buses, etc.), change, connection
+津波,つなみ,tsunami, tidal wave
+銅,どう,copper (Cu)
+引き分け,ひきわけ,draw (in competition), tie game
+皇居,こうきょ,Imperial Palace (of Japan), imperial residence
+歯磨き,はみがき,dental brushing, brushing one's teeth
+冠,かんむり,traditional cap worn by Shinto clergy and courtiers
+流通,りゅうつう,circulation (of money, goods, etc.), distribution
+仏像,ぶつぞう,statue of Buddha, image of Buddha, Buddhist statue, Buddhist image
+転々,てんてん,moving from place to place, being passed around repeatedly
+見合い,みあい,(formal) meeting with a view to marriage, interview with a prospective spouse
+水源,すいげん,source of river, fountainhead
+海運,かいうん,maritime transport, shipping
+曖昧,あいまい,vague, ambiguous, unclear
+梯子,はしご,ladder
+絨毯,じゅうたん,carpet, rug, runner
+茹でる,ゆでる,to boil (something in hot water)
+錆,さび,rust
+中指,なかゆび,middle finger, long finger, second finger, tall finger
+と,と,if, when
+螺子,ねじ,screw
+黄金,おうごん,gold (Au)
+子,こ,child, kid, teenager, youngster, young (non-adult) person
+怒る,おこる,to get angry, to get mad, to lose one's temper
+嬢,じょう,unmarried woman
+振り,ふり,swing, shake, wave, swinging
+落ちる,おちる,to fall, to drop, to come down, to crash, to collapse, to cave in, to give way
+楽しむ,たのしむ,to enjoy, to take pleasure in, to have a good time, to have fun
+途中,とちゅう,on the way, en route
+起こす,おこす,to raise, to raise up, to set up, to pick up
+死,し,death
+上がる,あがる,to rise, to go up, to come up, to ascend, to be raised
+説得,せっとく,persuasion
+助言,じょげん,advice, counsel, suggestion, tip, hint
+理論,りろん,theory
+怒り,いかり,anger, rage, fury, wrath, indignation
+集まる,あつまる,to gather, to collect, to assemble
+落とす,おとす,to drop, to lose, to let fall, to shed (light), to cast (one's gaze), to pour in (liquid), to leave behind
+秘書,ひしょ,(private) secretary
+紳士,しんし,gentleman
+証拠,しょうこ,evidence, proof
+大事,だいじ,important, serious, crucial
+下がる,さがる,to come down, to go down, to fall, to drop, to sink, to get lower
+決まる,きまる,to be decided, to be settled, to be fixed, to be arranged
+選挙,せんきょ,election
+運命,うんめい,fate, destiny, lot
+運命,うんめい,fate, destiny, lot
+世,よ,world, society, public
+富,とみ,riches, wealth, fortune
+天才,てんさい,genius, prodigy, natural gift
+取引,とりひき,transactions, dealings, business
+階,かい,storey, story, floor
+危機,きき,crisis, critical situation, emergency, pinch
+交渉,こうしょう,negotiations, bargaining, discussions, talks
+勝利,しょうり,victory, triumph, win, conquest, success
+予想,よそう,expectation, anticipation, prediction, forecast, conjecture
+距離,きょり,distance, range, interval
+政策,せいさく,political measures, policy
+幽霊,ゆうれい,ghost, specter, spectre, apparition, phantom
+洪水,こうずい,flood, flooding
+同情,どうじょう,sympathy, compassion, pity
+航海,こうかい,(sea) voyage, navigation, sailing, passage, cruise
+破壊,はかい,destruction, disruption
+自信,じしん,self-confidence, confidence (in oneself)
+世代,せだい,generation
+投資,とうし,investment
+治療,ちりょう,(medical) treatment, care, therapy, cure, remedy
+殺人,さつじん,murder, homicide, manslaughter
+投資,とうし,investment
+小切手,こぎって,cheque, check
+反応,はんのう,reaction, response
+制服,せいふく,uniform
+報道,ほうどう,report (of news), reporting, news, information, (media) coverage
+企画,きかく,planning, plan, project, arrangements
+賃金,ちんぎん,wages, pay
+権力,けんりょく,(political) power, authority, influence
+暴力,ぼうりょく,violence, mayhem
+名誉,めいよ,honor, honour, credit, glory, fame, distinction
+貧困,ひんこん,poverty, penury, need, destitution
+美,び,beauty
+保険,ほけん,insurance
+聖書,せいしょ,Bible, the Scriptures, Holy Writ
+妥協,だきょう,compromise, giving in
+孤独,こどく,solitude, loneliness, isolation
+昆虫,こんちゅう,insect, bug
+牧師,ぼくし,pastor, minister, clergyman, reverend
+判決,はんけつ,judicial decision, judgement, judgment, sentence, decree
+牧師,ぼくし,pastor, minister, clergyman, reverend
+向き,むき,direction, orientation, aspect, exposure
+古代,こだい,ancient times, distant past, antiquity
+着陸,ちゃくりく,landing, alighting, touch down
+真ん中,まんなか,middle, centre, center, midpoint, heart
+倒産,とうさん,(corporate) bankruptcy, insolvency, commercial failure, failed business
+規制,きせい,regulation, (traffic) policing, control, restriction
+偏見,へんけん,prejudice, bias, distorted view
+入浴,にゅうよく,bathing, going in the bath
+証言,しょうげん,testimony, (verbal) evidence
+財政,ざいせい,public finance
+報酬,ほうしゅう,remuneration, recompense, reward, toll
+動機,どうき,motive, incentive
+祈り,いのり,prayer, supplication
+決断,けつだん,decision, determination
+革命,かくめい,revolution
+人民,じんみん,the people, citizens, the populace
+自己,じこ,self, oneself
+予言,よげん,prediction, prophecy, prognostication, foretelling, forecast
+昼間,ひるま,daytime, during the day, time from sunrise until sunset, diurnal period
+移民,いみん,immigration, emigration
+改革,かいかく,reform, reformation, reorganization
+暴動,ぼうどう,insurrection, riot, uprising, rebellion, revolt
+災害,さいがい,calamity, disaster, misfortune
+久しぶり,ひさしぶり,a long time (since the last time), first in a long time
+真珠,しんじゅ,pearl
+死刑,しけい,death penalty, capital punishment
+爆弾,ばくだん,bomb
+実業家,じつぎょうか,businessman, entrepreneur, captain of industry
+妊娠,にんしん,pregnancy, conception, gestation
+燃料,ねんりょう,fuel
+人格,じんかく,personality, character, individuality, personhood
+民族,みんぞく,people, race, nation, ethnic group, ethnos
+承諾,しょうだく,consent, approval, acceptance, agreement, compliance
+権威,けんい,authority, power, influence, prestige
+伝説,でんせつ,legend, folklore, tradition
+定義,ていぎ,definition
+網,あみ,net, netting
+悪,あく,evil, wickedness
+認識,にんしき,recognition, awareness, perception, understanding, knowledge, cognition, cognizance, cognisance
+反乱,はんらん,insurrection, mutiny, rebellion, revolt, uprising
+体力,たいりょく,stamina, endurance, physical strength, resilience, resistance to disease
+圧力,あつりょく,pressure, stress
+植民地,しょくみんち,colony
+品質,ひんしつ,quality (of a product or a service)
+孤児,こじ,orphan
+脳,のう,brain
+物体,ぶったい,object, body, solid
+福祉,ふくし,welfare, well-being, social welfare, social security, social service
+海峡,かいきょう,channel (e.g. between two land masses), strait
+宮殿,きゅうでん,palace
+芝,しば,lawn, sod, turf
+火星,かせい,Mars (planet)
+文書,ぶんしょ,document, writing, letter, papers, notes, records, archives
+探検,たんけん,exploration, expedition
+戦闘,せんとう,battle, fight, combat
+真理,しんり,truth
+柱,はしら,pillar, post
+預金,よきん,deposit, bank account
+柱,はしら,pillar, post
+理性,りせい,reason, reasoning power, (one's) sense
+出血,しゅっけつ,bleeding, haemorrhage, hemorrhage
+日焼け,ひやけ,sunburn, suntan, tan
+声明,せいめい,declaration, statement, proclamation
+条約,じょうやく,treaty, pact, convention, agreement
+闇,やみ,darkness, the dark
+関税,かんぜい,customs (duties), duty, tariff
+職員,しょくいん,staff member, employee, worker, personnel
+固定,こてい,fixing (in place), being fixed (in place), securing, anchoring, fastening down
+憎しみ,にくしみ,hatred
+内閣,ないかく,cabinet (of a government), ministry
+尿,にょう,urine
+形態,けいたい,form, shape, figure
+本能,ほんのう,instinct
+思考,しこう,thought, consideration, thinking
+概念,がいねん,general idea, concept, notion
+見積もり,みつもり,estimate, estimation, valuation, quotation
+視野,しや,field of vision, view
+進化,しんか,evolution
+進化,しんか,evolution
+比例,ひれい,proportion
+根源,こんげん,root, source, origin, cause
+負債,ふさい,debt, liabilities
+転勤,てんきん,job transfer, job relocation, intra-company transfer
+独占,どくせん,monopoly, monopolization, exclusivity
+面会,めんかい,meeting (face-to-face), seeing, visit, interview
+看護,かんご,nursing, (army) nurse
+資産,しさん,property, fortune, means, assets
+恋愛,れんあい,love, love-making, passion, emotion, affections
+権限,けんげん,power, authority, jurisdiction
+電線,でんせん,electric line, electric cable, power cable
+乱用,らんよう,abuse, misuse, misappropriation, using to excess
+疲労,ひろう,fatigue, weariness, exhaustion, tiredness
+貴族,きぞく,nobility, aristocracy, peerage
+家出,いえで,running away from home, elopement
+在庫,ざいこ,stock, inventory
+運賃,うんちん,(passenger) fare
+定年,ていねん,(compulsory) retirement age, age limit
+奉仕,ほうし,service, ministry, attendance, church work
+天国,てんごく,paradise, heaven, Kingdom of Heaven
+退学,たいがく,dropping out of school, withdrawal from school
+固体,こたい,solid (body), solid matter, solid-state
+奉仕,ほうし,service, ministry, attendance, church work
+定年,ていねん,(compulsory) retirement age, age limit
+与党,よとう,ruling party, government party, party in power, government
+山脈,さんみゃく,mountain range, mountain belt
+捕虜,ほりょ,prisoner (of war), POW, captive
+扉,とびら,door, gate, opening
+遺跡,いせき,(archeological) remains, ruins, relics
+救済,きゅうさい,relief, aid, help, rescue
+肺,はい,lung
+収益,しゅうえき,earnings, proceeds, returns, revenue
+設定,せってい,establishment, creation, posing (a problem), setting (movie, novel, etc.), scene
+野党,やとう,opposition party, the opposition
+統制,とうせい,regulation, control
+分裂,ぶんれつ,split, division, break up
+人体,じんたい,human body
+戦術,せんじゅつ,tactics
+人質,ひとじち,hostage
+人体,じんたい,human body
+分裂,ぶんれつ,split, division, break up
+主食,しゅしょく,staple food
+気質,きしつ,disposition, temperament, nature, mentality, spirit, character, trait, turn of mind
+実践,じっせん,practice, putting into practice, implementation
+得点,とくてん,scoring, score, points made, marks obtained, goals, runs
+人質,ひとじち,hostage
+収益,しゅうえき,earnings, proceeds, returns, revenue
+脅迫,きょうはく,threat, menace, coercion, blackmail
+家畜,かちく,domestic animals, livestock, cattle
+主人公,しゅじんこう,protagonist, main character, hero, heroine
+感染,かんせん,infection, contagion, becoming infected
+細胞,さいぼう,cell
+占領,せんりょう,occupying, having (an area) all to oneself
+暗殺,あんさつ,assassination
+神秘,しんぴ,mystery, mysteriousness, secret
+斜面,しゃめん,slope, slanting surface, bevel
+堤防,ていぼう,bank, weir, embankment, levee
+模型,もけい,model, dummy, maquette
+反発,はんぱつ,opposition, rebellion, revolt, resistance, backlash, refusal
+神秘,しんぴ,mystery, mysteriousness, secret
+政権,せいけん,(political) administration, political power
+脂肪,しぼう,fat, grease, blubber, lard, suet
+基金,ききん,fund, foundation
+織物,おりもの,textile, fabric
+清算,せいさん,(financial) settlement, squaring accounts, clearing debts
+回路,かいろ,circuit (electric)
+君主,くんしゅ,monarch, sovereign, ruler, liege (lord)
+貨幣,かへい,money, currency, coin
+本質,ほんしつ,essence, true nature, substance, reality
+抑圧,よくあつ,check, restraint, oppression, suppression
+天体,てんたい,heavenly body, celestial body, astronomical object
+詐欺,さぎ,fraud, swindle, graft, cheating, trick, scam
+中立,ちゅうりつ,neutrality
+無効,むこう,invalid, void, ineffective, unavailable
+乱れる,みだれる,to be disordered, to be disarranged, to be disarrayed, to be disheveled, to be dishevelled
+刃,は,edge (of a knife or sword), blade
+襟,えり,collar, lapel, neckband, neck
+同調,どうちょう,conformity, alignment, agreement, sympathy, following suit
+下痢,げり,diarrhea, diarrhoea
+下痢,げり,diarrhea, diarrhoea
+戯曲,ぎきょく,drama, play
+世帯,せたい,household, home, family, housekeeping
+前提,ぜんてい,condition, assumption, prerequisite, hypothesis
+強制,きょうせい,compulsion, coercion, forcing (to do), enforcement
+漁船,ぎょせん,fishing boat
+調理,ちょうり,cooking, food preparation
+墓地,ぼち,cemetery, graveyard
+仕様,しよう,way, method, means, resource, remedy
+官僚,かんりょう,bureaucrat, government official, bureaucracy
+教員,きょういん,teacher, instructor, teaching staff, faculty member
+視覚,しかく,sense of sight, vision
+照明,しょうめい,illumination, lighting
+作戦,さくせん,tactics, strategy
+枠,わく,frame, framework
+解除,かいじょ,termination (of a contract), cancellation, rescinding, rescission
+蜜,みつ,nectar
+財,ざい,fortune, riches
+麻酔,ますい,anaesthesia, anesthesia
+僧,そう,monk, priest
+僧,そう,monk, priest
+結晶,けっしょう,crystal, crystallization, crystallisation
+発作,ほっさ,fit, attack, spasm, ictus, paroxysm, seizure, stroke
+驚異,きょうい,wonder, miracle, amazement, prodigy
+分子,ぶんし,molecule
+鉛,なまり,lead (Pb)
+均衡,きんこう,equilibrium, balance
+街道,かいどう,highway (esp. one existing from the Edo period), main road
+麻酔,ますい,anaesthesia, anesthesia
+蜜,みつ,nectar
+小売,こうり,retail
+映像,えいぞう,image (on a screen), picture (e.g. on a TV)
+反響,はんきょう,echo, reverberation
+行政,ぎょうせい,executive, government
+地形,ちけい,terrain, geographical features, topography
+音色,ねいろ,tone color, tone colour, tone quality, timbre
+国土,こくど,country, territory, domain, realm
+合唱,がっしょう,singing together, singing in union, chorus
+戸籍,こせき,family register
+工学,こうがく,engineering
+錯覚,さっかく,optical illusion, hallucination
+旅客,りょかく,passenger
+迫害,はくがい,persecution, oppression
+音色,ねいろ,tone color, tone colour, tone quality, timbre
+融資,ゆうし,financing, loan
+行政,ぎょうせい,executive, government
+兵器,へいき,arms, weapon, ordnance
+気象,きしょう,weather (conditions)
+農地,のうち,agricultural land, farmland
+炒める,いためる,to fry, to saute, to stir-fry
+繊維,せんい,fibre, fiber, textile
+戸籍,こせき,family register
+株式,かぶしき,share (in a company), stock
+化石,かせき,fossil
+差異,さい,difference, disparity, gap
+共鳴,きょうめい,resonance
+合唱,がっしょう,singing together, singing in union, chorus
+棄権,きけん,abstention (from voting), renunciation (of a right), withdrawal (from a contest)
+没収,ぼっしゅう,forfeiture, seizure, confiscation, impounding
+脚本,きゃくほん,script, screenplay, scenario
+拡散,かくさん,spreading, disseminating, scattering
+窒息,ちっそく,suffocation, choking, asphyxia
+花粉,かふん,pollen
+手錠,てじょう,handcuffs, manacles
+主体,しゅたい,main constituent, core, nucleus
+送金,そうきん,remittance, sending money
+楽譜,がくふ,score, sheet music
+同志,どうし,like-mindedness, (being of the) same mind, shared sentiment
+炭素,たんそ,carbon (C)
+血管,けっかん,blood vessel, vein
+修士,しゅうし,master's (degree)
+岩石,がんせき,rock
+参議院,さんぎいん,House of Councillors (upper house of the National Diet of Japan)
+演出,えんしゅつ,direction (of a play, film, etc.), production
+刑罰,けいばつ,(criminal) punishment, penalty, sentence
+規範,きはん,model, standard, pattern, norm, criterion, example
+共感,きょうかん,sympathy, empathy, response, identification (with someone)
+茎,くき,stalk, stem
+脚本,きゃくほん,script, screenplay, scenario
+軍事,ぐんじ,military affairs
+規範,きはん,model, standard, pattern, norm, criterion, example
+茎,くき,stalk, stem
+衛生,えいせい,hygiene, sanitation, health
+送金,そうきん,remittance, sending money
+同志,どうし,like-mindedness, (being of the) same mind, shared sentiment
+味覚,みかく,taste, palate, sense of taste
+光沢,こうたく,brilliance, polish, lustre, luster, glossy finish
+織り,おり,weave, weaving, woven item
+書評,しょひょう,book review
+定食,ていしょく,set meal, special (of the day)
+居住,きょじゅう,residence, abode, dwelling
+粥,かゆ,thin rice porridge, watery cooked rice, rice gruel, congee
+再建,さいけん,rebuilding, reconstruction, rehabilitation
+品種,ひんしゅ,type (of goods), sort
+星座,せいざ,constellation
+雪崩,なだれ,avalanche, snowslide
+結核,けっかく,tuberculosis, TB
+三味線,しゃみせん,shamisen, samisen, three-stringed Japanese lute
+捕鯨,ほげい,whaling, whale hunting, whale fishing
+保守,ほしゅ,maintenance
+衆議院,しゅうぎいん,House of Representatives (lower house of the National Diet of Japan)
+多数決,たすうけつ,majority decision, majority vote, majority rule
+盾,たて,shield, buckler, escutcheon, pretext
+偽造,ぎぞう,forgery, counterfeiting, fabrication, falsification
+書評,しょひょう,book review
+舗装,ほそう,paving (a road), surfacing (with asphalt, concrete, etc.), pavement
+鉄棒,てつぼう,iron rod, iron bar, iron club
+燃焼,ねんしょう,burning, combustion
+結核,けっかく,tuberculosis, TB
+混血,こんけつ,mixed race, mixed parentage
+再建,さいけん,rebuilding, reconstruction, rehabilitation
+鳥居,とりい,torii (Shinto shrine archway)
+自我,じが,ego
+雪崩,なだれ,avalanche, snowslide
+品種,ひんしゅ,type (of goods), sort
+執着,しゅうちゃく,attachment, adhesion, insistence, tenacity, fixation, obsession, clinging (e.g. to old customs)
+定食,ていしょく,set meal, special (of the day)
+風俗,ふうぞく,manners, customs
+保守,ほしゅ,maintenance
+地主,じぬし,landowner, landlord, landlady
+根回し,ねまわし,laying the groundwork, behind-the-scenes maneuvering, consensus-building process
+合成,ごうせい,composition, synthesis, compounding, combining
+呉れる,くれる,to give, to let (one) have
+積もり,つもり,intention, plan, purpose, expectation
+殆ど,ほとんど,almost, nearly, mostly, practically, virtually, basically, just about, all but
+酷い,ひどい,cruel, heartless, hard, harsh, severe
+屹度,きっと,surely, undoubtedly, almost certainly, most likely (e.g. 90 percent)
+筈,はず,should (be), bound (to be), expected (to be), must (be)
+暫く,しばらく,for a moment, for a minute
+確り,しっかり,tightly (holding on), firmly, securely
+新,しん,new, neo-
+為さる,なさる,to do
+角,かく,angle
+込む,こむ,to be crowded, to be packed, to be congested, to be thronged (with)
+それ程,それほど,to that degree, to that extent, that much
+偶に,たまに,occasionally, once in a while, now and then
+無知,むち,ignorance, innocence, stupidity
+些とも,ちっとも,(not) at all, (not) a bit, (not) in the least, (not) in the slightest
+崖,がけ,cliff, precipice
+嫉妬,しっと,jealousy, envy
+混同,こんどう,confusion, mixing, merger
+顎,あご,jaw, chin
+成るべく,なるべく,as (much) as possible, as (much) as one can, wherever practicable, if possible
+苛める,いじめる,to ill-treat, to bully, to torment, to pick on, to tease, to be cruel to, to persecute
+蕾,つぼみ,(flower) bud
+蜂蜜,はちみつ,honey
+無口,むくち,taciturn, reticent, quiet, silent, untalkative
+藁,わら,straw
+語彙,ごい,vocabulary, lexicon, lexis, terminology
+杖,つえ,cane, walking stick, staff, wand
+夕焼け,ゆうやけ,evening glow, red sunset, afterglow (of sunset)
+麻痺,まひ,paralysis, palsy, stupor
+現像,げんぞう,development (of film), photographic processing
+片思い,かたおもい,unrequited love, one-sided love
+直感,ちょっかん,intuition, instinct, hunch
+逆立ち,さかだち,handstand, headstand
+班,はん,group, party, team
+満月,まんげつ,full moon
+貝殻,かいがら,seashell, shell
+元素,げんそ,element, chemical element
+畜生,ちくしょう,damn it, damn, son of a bitch, for Christ's sake
+滴,しずく,drop (e.g. of water), drip
+裸足,はだし,barefoot
+名札,なふだ,name plate, name tag, label
+模倣,もほう,imitation, copying
+近視,きんし,myopia, shortsightedness, nearsightedness
+器官,きかん,organ
+海流,かいりゅう,ocean current
+略語,りゃくご,abbreviation, acronym
+助詞,じょし,particle, postpositional word in Japanese grammar that functions as an auxiliary to a main word
+暗示,あんじ,hint, suggestion, clue, implication
+炬燵,こたつ,kotatsu, table over an electric heater, with a hanging quilt to retain heat (orig. over a charcoal brazier in a floor well)
+降水,こうすい,rainfall, precipitation
+地方,ちほう,district, region, area, locality
+壺,つぼ,pot, jar, vase
+時刻表,じこくひょう,timetable, schedule
+刺繍,ししゅう,embroidery
+香辛料,こうしんりょう,spice, spices, condiment
+何も,なにも,(not) anything, (nothing) at all, (not) any, nothing
+他人,たにん,another person, other people, others
+賛成,さんせい,approval, agreement, support, favour, favor
+現れる,あらわれる,to appear, to come in sight, to become visible, to come out, to embody, to materialize, to materialise
+出会う,であう,to meet (by chance), to come across, to run across, to encounter, to happen upon
+辺り,あたり,(in the) neighbourhood, neighborhood, vicinity, nearby, surroundings
+素敵,すてき,lovely, wonderful, nice, great, fantastic, superb, cool
+一言,ひとこと,single word, a few words, brief comment
+乗客,じょうきゃく,passenger
+恐らく,おそらく,probably, (most) likely, in all likelihood, I suspect, I dare say, I'm afraid
+傷,きず,wound, injury, cut, gash, bruise, scratch, scrape, scar
+従って,したがって,therefore, consequently, accordingly
+現場,げんば,actual spot, scene (of a crime, accident, etc.)
+働き,はたらき,work, labor, labour
+姉妹,しまい,sisters
+可哀想,かわいそう,poor, pitiable, pathetic, pitiful
+度々,たびたび,often, again and again, over and over again, repeatedly, frequently
+見舞い,みまい,visit (to someone affected by illness or misfortune), call, inquiry (about someone's health), expression of sympathy
+女子,じょし,woman, girl
+審判,しんぱん,judgement, judgment, decision, verdict, sentence
+幕,まく,curtain
+係,かかり,charge, duty, person in charge, official, clerk
+誠に,まことに,indeed, really, absolutely, truly, actually, very, quite
+現れ,あらわれ,embodiment, manifestation, materialization, materialisation, expression, indication
+仕舞う,しまう,to finish, to stop, to end, to put an end to, to bring to a close
+可也,かなり,considerably, fairly, quite, rather, pretty
+凡ゆる,あらゆる,all, every
+丸で,まるで,quite, entirely, completely, at all
+如何しても,どうしても,by all means, at any cost, no matter what, at any rate, surely
+喋る,しゃべる,to talk, to chat, to chatter
+何時でも,いつでも,always, all the time, at all times
+例え,たとえ,example
+益々,ますます,increasingly, more and more, decreasingly (when declining), less and less
+済みません,すみません,excuse me, pardon me, I'm sorry, I beg your pardon
+或る,ある,a certain ..., some ...
+正に,まさに,exactly, just, precisely, really, truly, surely, certainly, without doubt
+お喋り,おしゃべり,chattering, talk, idle talk, chat, chitchat, gossip
+所謂,いわゆる,what is called, as it is called, the so-called, so to speak
+宜しく,よろしく,well, properly, suitably
+軈て,やがて,before long, soon, shortly
+詰まり,つまり,that is to say, that is, in other words, I mean, that (this, it) means
+兎に角,とにかく,anyway, anyhow, at any rate, in any case, at least, just
+苛々,いらいら,to get irritated, to get annoyed, to be on the edge, to fret, to lose patience
+其のまま,そのまま,without change, as is
+悪戯,いたずら,mischief, prank, trick, practical joke
+堪らない,たまらない,intolerable, unbearable, unendurable
+態と,わざと,on purpose, deliberately, intentionally
+何時までも,いつまでも,forever, eternally, for good, as long as one likes, indefinitely, endlessly, for a long time
+若しも,もしも,if, in case, supposing
+不図,ふと,suddenly, casually, accidentally, incidentally, unexpectedly, unintentionally
+凡そ,およそ,about, roughly, approximately
+可愛らしい,かわいらしい,lovely, sweet, pretty, cute, adorable
+即ち,すなわち,that is (to say), namely, i.e.
+その内,そのうち,before very long, soon, someday, one of these days, sooner or later
+我儘,わがまま,selfish, egoist
+頻りに,しきりに,frequently, repeatedly, often, incessantly, constantly
+稍,やや,a little, partially, somewhat, slightly, semi-, -ish, on the ... side, a short time, a while
+唸る,うなる,to groan, to moan
+頂きます,いただきます,thank you (for the meal just served), I receive (this meal)
+仕舞った,しまった,darn it!, darn!, oops!, oh dear!, oh no!
+箪笥,たんす,chest of drawers, bureau, cabinet, tansu, dresser
+これ等,これら,these
+上手い,うまい,skillful, skilful, skilled, good, expert, clever (expression, trick, etc.), apt, appropriate
+自転,じてん,rotation (on an axis)
+葦,あし,common reed (Phragmites australis)
+年鑑,ねんかん,yearbook, almanac, annual
+手芸,しゅげい,handicrafts
+風車,ふうしゃ,windmill, wind turbine
+絶版,ぜっぱん,out of print
+聴診器,ちょうしんき,stethoscope
+浮力,ふりょく,buoyancy, floating power
+暗算,あんざん,mental arithmetic
+映写,えいしゃ,projection
+けど,けど,but, however, although
+間もなく,まもなく,soon, shortly, before long, in a short time, in a little while
+耐える,たえる,to bear, to stand, to endure, to put up with
+上司,じょうし,(one's) superior, (one's) boss, the higher-ups
+少なくとも,すくなくとも,at least
+押さえる,おさえる,to pin down, to hold down, to press down, to hold in place, to hold steady
+知り合い,しりあい,acquaintance
+相変わらず,あいかわらず,as usual, as always, as before, as ever, still
+率直,そっちょく,frank, candid, straightforward, openhearted, direct, outspoken
+殴る,なぐる,to strike, to hit, to beat, to punch
+慌てる,あわてる,to become confused (disconcerted, disorganized, disorganised), to be flustered, to panic
+何とも,なんとも,really, very, extremely, terribly, awfully
+当たり前,あたりまえ,natural, reasonable, obvious
+手元,てもと,at hand, on hand, nearby, close at hand
+話し合い,はなしあい,discussion, talk, tête-à-tête, conference
+一切,いっさい,all, everything, entirety, the whole
+締め切り,しめきり,deadline, closing, cut-off
+不当,ふとう,unfair, unjust, wrongful, improper, unreasonable, unwarranted, unjustified, undeserved, undue
+一定,いってい,to fix, to settle, to standardize, to regularize
+重役,じゅうやく,(company) director, executive, top management
+箇所,かしょ,place, point, part, spot, area, passage, portion
+寒気,さむけ,chill, the shivers, shivering fit
+果たして,はたして,as was expected, just as one thought, sure enough
+割引,わりびき,discount, reduction, rebate
+開拓,かいたく,reclamation (e.g. of wasteland), cultivation, development
+気配,けはい,indication, sign, hint, sensation, feeling
+一々,いちいち,one-by-one, separately
+売れ行き,うれゆき,sales, demand
+受取り,うけとり,receiving, receipt
+受取り,うけとり,receiving, receipt
+対立,たいりつ,confrontation, opposition, antagonism
+田園,でんえん,the country, countryside, rural districts
+近々,ちかぢか,soon, before long, shortly, in the near future
+家主,やぬし,landlord, landlady
+鉱山,こうざん,mine (ore)
+何しろ,なにしろ,in any case, at any rate, anyhow, anyway, as you know, for you see, particularly
+振興,しんこう,promotion, encouragement
+物置,ものおき,storage room, storeroom, lumber room
+万能,ばんのう,all-purpose, utility, universal
+無線,むせん,radio (communication)
+円満,えんまん,harmonious, peaceful, happy, amicable, smooth, free from trouble
+出入り口,でいりぐち,exit and entrance
+市街,しがい,urban areas, the streets, town, city
+付属,ふぞく,being attached (to), being affiliated (to), belonging (to), going with
+消耗,しょうもう,exhaustion, consumption, using up, dissipation, waste
+騙す,だます,to trick, to cheat, to deceive
+付き合う,つきあう,to associate with, to keep company with, to go out with, to go steady with, to get on with
+当てはまる,あてはまる,to apply (of a rule), to be applicable (of standards, lessons, ideas, etc.), to hold true (e.g. of a description), to fit, to be suitable (e.g. of a word), to meet (requirements), to fulfill (conditions), to come under (a heading)
+浮かぶ,うかぶ,to float, to be suspended
+矢っ張り,やっぱり,as expected, sure enough, just as one thought
+引き受ける,ひきうける,to take on, to undertake, to accept, to take charge of, to assume responsibility for
+その上,そのうえ,in addition, furthermore
+替わる,かわる,to succeed, to relieve, to replace
+捉える,とらえる,to catch, to capture, to seize, to arrest, to grab, to catch hold of
+零れる,こぼれる,to spill, to fall out of, to overflow
+溢れる,あふれる,to overflow, to brim over, to flood
+零す,こぼす,to spill, to drop, to shed (tears)
+酸っぱい,すっぱい,sour, acid
+寄越す,よこす,to send, to forward
+躊躇う,ためらう,to hesitate, to waver
+惨め,みじめ,miserable, wretched, unhappy, sad, pitiable
+遡る,さかのぼる,to go upstream, to go up (a river)
+是非とも,ぜひとも,by all means, at all costs, absolutely
+独りでに,ひとりでに,by itself, automatically, naturally
+大人しい,おとなしい,gentle, quiet, mild, meek, obedient, docile, well-behaved, tame
+喧しい,やかましい,noisy, loud, clamorous, boisterous
+尻尾,しっぽ,tail (of an animal)
+忽ち,たちまち,in an instant, in a moment, immediately, right away, at once
+剃る,そる,to shave
+忽ち,たちまち,in an instant, in a moment, immediately, right away, at once
+怒鳴る,どなる,to shout (in anger), to yell
+遠方,えんぽう,long way, distant place
+可愛がる,かわいがる,to be affectionate to, to treat tenderly, to dote on, to show one's love (for), to cherish
+躓く,つまずく,to trip (over), to stumble
+済まない,すまない,inexcusable, unjustifiable, unpardonable
+傾く,かたむく,to incline toward, to slant, to lurch, to heel over, to be disposed to, to trend toward, to be prone to
+爽やか,さわやか,fresh, refreshing, invigorating, pleasant, delightful
+図々しい,ずうずうしい,impudent, shameless, brazen, forward, audacious, cheeky
+嵌める,はめる,to fit (e.g. a pane into a frame), to insert (e.g. a cork), to fasten (a button)
+返る,かえる,to return, to come back, to go back
+目茶苦茶,めちゃくちゃ,absurd, unreasonable, nonsensical, preposterous, incoherent
+行き成り,いきなり,abruptly, suddenly, all of a sudden, without warning
+お早う,おはよう,good morning
+背負う,せおう,to carry on one's back
+下らない,くだらない,trivial, trifling, insignificant, not worth bothering with, worthless, useless, good-for-nothing
+呉れ呉れも,くれぐれも,sincerely, earnestly, wholeheartedly
+勿体ない,もったいない,wasteful, a waste
+痒い,かゆい,itchy
+花壇,かだん,flower bed
+いつの間にか,いつのまにか,before one knows, before one becomes aware of, unnoticed, unawares
+ご無沙汰,ごぶさた,not writing or contacting for a while, neglecting (failing) to write (call, visit, etc.), long silence
+打ち合わせ,うちあわせ,(preparatory) meeting, briefing session, (making) advance arrangements
+何となく,なんとなく,somehow or other, for some reason or another, without knowing why
+目眩,めまい,dizziness, giddiness, vertigo
+お休み,おやすみ,holiday, day off, absence
+愈,いよいよ,more and more, all the more, increasingly
+出鱈目,でたらめ,nonsense, irresponsible remark, codswallop, hogwash, rubbish
+若しかしたら,もしかしたら,perhaps, maybe, perchance, by some chance, by any chance
+お洒落,おしゃれ,stylish, fashionable, trendy, chic, smartly dressed, careful about one's appearance
+巫山戯る,ふざける,to joke, to jest, to kid, to josh
+当てはめる,あてはめる,to apply, to adapt
+見っとも無い,みっともない,shameful, disgraceful, unsightly, indecent, unseemly, unbecoming, improper
+眩しい,まぶしい,dazzling, radiant
+所々,ところどころ,here and there, in places
+剥がす,はがす,to tear off, to peel off, to rip off, to strip off, to skin, to flay, to disrobe, to deprive of, to detach, to disconnect
+拵える,こしらえる,to make, to manufacture
+大雑把,おおざっぱ,rough (estimate, summary, etc.), broad, general, sweeping, loose
+瞼,まぶた,eyelid
+吊るす,つるす,to hang, to hang up
+目出度い,めでたい,happy, auspicious, propitious, joyous
+お八つ,おやつ,between-meal snack
+萎む,しぼむ,to wither (of flowers, dreams, etc.), to wilt, to droop, to shrivel, to fade (away), to sag, to deflate
+諄い,くどい,repetitious, long-winded, tedious, wordy, verbose, insistent, importunate
+十字路,じゅうじろ,crossroads, intersection
+跨ぐ,またぐ,to step over, to step across, to stride over, to stride across, to cross
+慌ただしい,あわただしい,busy, hectic, hurried, rushed
+組み合わせ,くみあわせ,combination, assortment, set
+若しかすると,もしかすると,perhaps, possibly, maybe, by some chance
+偏る,かたよる,to lean (to one side), to incline
+俄,にわか,sudden, abrupt, unexpected, improvised, hasty, offhand
+馬鹿らしい,ばからしい,absurd, foolish, stupid, silly, nonsense, ludicrous, preposterous, laughable, ridiculous
+坊ちゃん,ぼっちゃん,(another's) son, boy, young master
+饂飩,うどん,udon, thick Japanese wheat noodles
+書き取り,かきとり,writing down from other written material, writing kanji text from hiragana
+倣う,ならう,to imitate, to follow, to copy, to emulate
+団扇,うちわ,uchiwa, type of traditional Japanese handheld fan
+吃逆,しゃっくり,hiccup, hiccough
+ご苦労様,ごくろうさま,thank you (for your hard work), I appreciate your efforts
+畏まりました,かしこまりました,certainly!
+坊ちゃん,ぼっちゃん,(another's) son, boy, young master
+お願いします,おねがいします,please
+沁み沁み,しみじみ,keenly, deeply, fully, heartily, seriously, earnestly
+やむを得ない,やむをえない,cannot be helped, unavoidable
+お先に,おさきに,before, previously
+じゃん拳,じゃんけん,rock-paper-scissors (game), janken
+木綿,もめん,cotton (material)
+丈,たけ,height, stature
+何と,なんと,what, how
+俺,おれ,I, me
+助け,たすけ,assistance, help, aid, support, reinforcement
+真実,しんじつ,truth, reality
+傍ら,かたわら,side, edge, beside, besides, nearby
+同意,どうい,agreement, consent, approval, assent
+事業,じぎょう,business, enterprise, venture, (commercial) activity, (business) operation, industry
+勤勉,きんべん,diligent, hard-working, industrious
+確信,かくしん,conviction, belief, confidence
+本の,ほんの,mere, only, just, slight
+行為,こうい,act, deed, conduct
+興奮,こうふん,excitement, stimulation, agitation, arousal
+非難,ひなん,criticism, blame, censure, attack, reproach
+受け入れる,うけいれる,to accept, to receive, to agree
+貧乏,びんぼう,poverty-stricken, destitute, poor, penurious
+兵士,へいし,soldier
+賢明,けんめい,wise, sensible, well-advised, intelligent, sagacious, prudent
+犠牲,ぎせい,sacrifice
+過ぎ,すぎ,past, after
+申し出,もうしで,proposal, offer, request, application
+支持,しじ,support, backing, endorsement, approval
+見込み,みこみ,hope, promise, possibility, chance, probability, likelihood
+立ち寄る,たちよる,to drop in (at), to drop by, to call at, to stop by, to stop off, to stop in
+勝る,まさる,to excel, to surpass, to exceed, to have an edge, to be superior, to outrival
+匹,ひき,counter for small animals
+直面,ちょくめん,confrontation
+当て,あて,aim, object, purpose, end
+癌,がん,cancer
+廃止,はいし,abolition, discontinuance, discontinuation, repeal, annulment
+余地,よち,place, room, margin, scope
+一部,いちぶ,one part, one portion, one section
+発言,はつげん,statement, remark, observation, utterance, speech, proposal
+上昇,じょうしょう,rising, ascending, climbing
+告げる,つげる,to tell, to inform, to announce
+従業員,じゅうぎょういん,employee, worker
+襲う,おそう,to attack, to assail, to make an assault, to strike, to hunt down
+何より,なにより,above anything else, above all, more than anything
+達成,たっせい,achievement, attainment, accomplishment, realization
+言い訳,いいわけ,excuse
+誠実,せいじつ,sincere, honest, faithful
+侮辱,ぶじょく,insult, affront, slight, contempt (e.g. of court)
+負う,おう,to carry on one's back, to bear, to shoulder
+資金,しきん,funds, capital
+対処,たいしょ,dealing with, coping with
+指摘,してき,pointing out, identification
+曲,きょく,composition, piece of music, song, track (on a record)
+保つ,たもつ,to keep, to preserve, to hold, to retain, to maintain, to sustain
+従事,じゅうじ,engaging in (work), pursuing (e.g. studies), following (a profession), being involved in
+昇進,しょうしん,promotion, advancement, rising in rank
+素早い,すばやい,quick, swift, nimble, agile
+提供,ていきょう,offer, tender, providing, supplying, making available, donating (blood, organs, etc.)
+法案,ほうあん,bill (law), measure
+提供,ていきょう,offer, tender, providing, supplying, making available, donating (blood, organs, etc.)
+浪費,ろうひ,waste, extravagance
+拒否,きょひ,refusal, rejection, denial, veto
+驚き,おどろき,surprise, astonishment, wonder, amazement
+抗議,こうぎ,protest, objection
+真相,しんそう,truth, real situation
+討論,とうろん,debate, discussion
+詳細,しょうさい,details, particulars, specifics
+負傷,ふしょう,injury, wound
+広まる,ひろまる,to spread, to be propagated
+本気,ほんき,seriousness, earnestness, truth, sanctity
+日々,ひび,daily, everyday
+指示,しじ,indication, denotation, designation
+沈黙,ちんもく,silence, being silent, quiet, hush
+及ぶ,およぶ,to reach, to amount to, to befall, to happen to, to extend, to go on (for, until)
+誘惑,ゆうわく,temptation, allurement, lure, enticement, seduction
+採用,さいよう,use, adoption, acceptance
+忠実,ちゅうじつ,faithful, devoted, loyal, honest, true
+設立,せつりつ,establishment, founding
+部下,ぶか,subordinate person
+尚,なお,still, yet
+一面,いちめん,one face, one surface
+満たす,みたす,to satisfy (conditions, one's appetite, etc.), to meet (e.g. demands), to fulfill, to gratify
+事柄,ことがら,matter, thing, affair, circumstance
+成り立つ,なりたつ,to consist of, to be made up of, to be composed of
+控える,ひかえる,to be temperate in, to refrain, to abstain, to hold back, to restrain oneself from excessive ...
+過ち,あやまち,fault, error, indiscretion, faux pas
+辞職,じしょく,resignation
+扱い,あつかい,treatment, service, dealing (with), handling, management
+実,じつ,truth, reality
+損失,そんしつ,loss (of assets, profit, etc.)
+時折,ときおり,sometimes, at intervals, occasionally, on occasion, from time to time
+赤字,あかじ,(being in) the red, deficit
+開発,かいはつ,development, exploitation (of resources)
+緊急,きんきゅう,urgency, emergency
+逃れる,のがれる,to escape
+遅れ,おくれ,delay, lag, postponement, falling behind
+行い,おこない,deed, act, action
+出世,しゅっせ,success in life, getting ahead, successful career, promotion, climbing the corporate ladder, eminence

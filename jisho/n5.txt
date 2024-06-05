@@ -1,572 +1,572 @@
-会社,かいしゃ
-上げる,あげる
-結婚,けっこん
-言葉,ことば
-目,め
-走る,はしる
-名前,なまえ
-旅行,りょこう
-道,みち
-飛行機,ひこうき
-映画,えいが
-音楽,おんがく
-木,き
-大学,だいがく
-時計,とけい
-家族,かぞく
-花,はな
-猫,ねこ
-毎日,まいにち
-宿題,しゅくだい
-雪,ゆき
-山,やま
-窓,まど
-動物,どうぶつ
-夜,よる
-料理,りょうり
-夏,なつ
-新聞,しんぶん
-公園,こうえん
-意味,いみ
-自転車,じてんしゃ
-足,あし
-電車,でんしゃ
-散歩,さんぽ
-声,こえ
-朝,あさ
-歌,うた
-靴,くつ
-箱,はこ
-机,つくえ
-帽子,ぼうし
-海,うみ
-授業,じゅぎょう
-銀行,ぎんこう
-写真,しゃしん
-冬,ふゆ
-村,むら
-傘,かさ
-口,くち
-橋,はし
-病院,びょういん
-図書館,としょかん
-春,はる
-買い物,かいもの
-椅子,いす
-自動車,じどうしゃ
-色,いろ
-卵,たまご
-肉,にく
-風邪,かぜ
-掃除,そうじ
-紙,かみ
-鍵,かぎ
-雑誌,ざっし
-切符,きっぷ
-外国人,がいこくじん
-財布,さいふ
-鉛筆,えんぴつ
-大人,おとな
-塩,しお
-地図,ちず
-砂糖,さとう
-夏休み,なつやすみ
-池,いけ
-郵便局,ゆうびんきょく
-教室,きょうしつ
-耳,みみ
-切手,きって
-台所,だいどころ
-電気,でんき
-作文,さくぶん
-歯,は
-紅茶,こうちゃ
-家庭,かてい
-野菜,やさい
-風呂,ふろ
-玄関,げんかん
-地下鉄,ちかてつ
-鼻,はな
-緑,みどり
-昼,ひる
-西,にし
-白,しろ
-洗濯,せんたく
-冷蔵庫,れいぞうこ
-火曜日,かようび
-南,みなみ
-北,きた
-茶色,ちゃいろ
-喫茶店,きっさてん
-喫茶店,きっさてん
-青,あお
-靴下,くつした
-封筒,ふうとう
-辺,へん
-黄色,きいろ
-映画館,えいがかん
-箸,はし
-食堂,しょくどう
-牛肉,ぎゅうにく
-交差点,こうさてん
-漢字,かんじ
-茶碗,ちゃわん
-曇り,くもり
-背広,せびろ
-灰皿,はいざら
-万年筆,まんねんひつ
-大使館,たいしかん
-豚肉,ぶたにく
-交番,こうばん
-飲む,のむ
-頭,あたま
-日曜日,にちようび
-誕生日,たんじょうび
-可愛い,かわいい
-鞄,かばん
-土曜日,どようび
-月曜日,げつようび
-金曜日,きんようび
-花瓶,かびん
-木曜日,もくようび
-本棚,ほんだな
-石鹸,せっけん
-水曜日,すいようび
-飴,あめ
-八百屋,やおや
-成る,なる
-より,より
-一番,いちばん
-私,わたし
-外,そと
-姉,あね
-百,ひゃく
-有る,ある
-其の,その
-言う,いう
-出来る,できる
-良い,よい
-下さい,ください
-見る,みる
-此の,この
-自分,じぶん
-知る,しる
-持つ,もつ
-何,なに
-車,くるま
-話す,はなす
-今,いま
-今日,きょう
-買う,かう
-読む,よむ
-皆,みんな
-新しい,あたらしい
-話,はなし
-明日,あした
-昨日,きのう
-出る,でる
-勉強,べんきょう
-取る,とる
-誰,だれ
-お金,おかね
-男,おとこ
-犬,いぬ
-使う,つかう
-大変,たいへん
-待つ,まつ
-作る,つくる
-後ろ,うしろ
-町,まち
-駅,えき
-少し,すこし
-貴方,あなた
-欲しい,ほしい
-行く,いく
-乗る,のる
-大きな,おおきな
-医者,いしゃ
-終わる,おわる
-学生,がくせい
-長い,ながい
-何の,どの
-又,また
-国,くに
-高い,たかい
-余り,あまり
-難しい,むずかしい
-友達,ともだち
-一つ,ひとつ
-本当,ほんとう
-寝る,ねる
-生徒,せいと
-忙しい,いそがしい
-両親,りょうしん
-泳ぐ,およぐ
-出す,だす
-立つ,たつ
-早い,はやい
-楽しい,たのしい
-面白い,おもしろい
-絵,え
-女の子,おんなのこ
-着る,きる
-上手,じょうず
-古い,ふるい
-強い,つよい
-全部,ぜんぶ
-呼ぶ,よぶ
-午後,ごご
-掛ける,かける
-辞書,じしょ
-天気,てんき
-体,からだ
-大きい,おおきい
-質問,しつもん
-夕べ,ゆうべ
-有名,ゆうめい
-兄,あに
-歌う,うたう
-上る,のぼる
-服,ふく
-鳥,とり
-時々,ときどき
-妹,いもうと
-二つ,ふたつ
-頼む,たのむ
-今朝,けさ
-お父さん,おとうさん
-遅い,おそい
-借りる,かりる
-薬,くすり
-庭,にわ
-外国,がいこく
-元気,げんき
-小さい,ちいさい
-弟,おとうと
-今年,ことし
-魚,さかな
-お母さん,おかあさん
-男の子,おとこのこ
-飛ぶ,とぶ
-売る,うる
-静か,しずか
-休む,やすむ
-食べ物,たべもの
-大切,たいせつ
-警官,けいかん
-来週,らいしゅう
-建物,たてもの
-暖かい,あたたかい
-降りる,おりる
-止まる,とまる
-一緒,いっしょ
-先週,せんしゅう
-白い,しろい
-少ない,すくない
-二,に
-赤い,あかい
-洗う,あらう
-嫌い,きらい
-立派,りっぱ
-暇,ひま
-お茶,おちゃ
-広い,ひろい
-去年,きょねん
-隣,となり
-大好き,だいすき
-女,おんな
-切る,きる
-多分,たぶん
-嫌,いや
-毎朝,まいあさ
-荷物,にもつ
-番号,ばんごう
-返す,かえす
-来年,らいねん
-明るい,あかるい
-近い,ちかい
-向こう,むこう
-始め,はじめ
-痛い,いたい
-秋,あき
-休み,やすみ
-練習,れんしゅう
-十,じゅう
-先月,せんげつ
-上着,うわぎ
-結構,けっこう
-兄弟,きょうだい
-毎年,まいとし
-来月,らいげつ
-五,ご
-飲み物,のみもの
-弱い,よわい
-牛乳,ぎゅうにゅう
-三,さん
-大丈夫,だいじょうぶ
-黒い,くろい
-皆さん,みなさん
-半分,はんぶん
-押す,おす
-勤める,つとめる
-熱い,あつい
-三つ,みっつ
-果物,くだもの
-今週,こんしゅう
-甘い,あまい
-右,みぎ
-晩,ばん
-階段,かいだん
-幾つ,いくつ
-大勢,おおぜい
-張る,はる
-夕方,ゆうがた
-低い,ひくい
-左,ひだり
-毎週,まいしゅう
-下手,へた
-千,せん
-渡す,わたす
-午前,ごぜん
-丸い,まるい
-便利,べんり
-今月,こんげつ
-浴びる,あびる
-半,はん
-洋服,ようふく
-撮る,とる
-締める,しめる
-文章,ぶんしょう
-薄い,うすい
-八,はち
-横,よこ
-四つ,よっつ
-六,ろく
-丈夫,じょうぶ
-毎晩,まいばん
-東,ひがし
-晴れ,はれ
-五つ,いつつ
-細い,ほそい
-廊下,ろうか
-太い,ふとい
-縦,たて
-七つ,ななつ
-留学生,りゅうがくせい
-九つ,ここのつ
-一昨年,おととし
-人,ひと
-居る,いる
-其れ,それ
-物,もの
-家,いえ
-本,ほん
-迚も,とても
-会う,あう
-好き,すき
-分かる,わかる
-此れ,これ
-聞く,きく
-所,ところ
-先,さき
-何時も,いつも
-書く,かく
-沢山,たくさん
-入る,はいる
-置く,おく
-何処,どこ
-住む,すむ
-食べる,たべる
-歩く,あるく
-働く,はたらく
-着く,つく
-上,うえ
-悪い,わるい
-教える,おしえる
-降る,ふる
-死ぬ,しぬ
-帰る,かえる
-多い,おおい
-出かける,でかける
-若い,わかい
-掛かる,かかる
-同じ,おなじ
-起きる,おきる
-座る,すわる
-店,みせ
-入れる,いれる
-何方,どなた
-一寸,ちょっと
-疲れる,つかれる
-開ける,あける
-何故,なぜ
-一日,いちにち
-寒い,さむい
-見せる,みせる
-違う,ちがう
-如何して,どうして
-付ける,つける
-覚える,おぼえる
-近く,ちかく
-風,かぜ
-困る,こまる
-生まれる,うまれる
-丁度,ちょうど
-初めて,はじめて
-始まる,はじまる
-貸す,かす
-綺麗,きれい
-幾ら,いくら
-空,そら
-弾く,ひく
-暑い,あつい
-遊ぶ,あそぶ
-然し,しかし
-無くす,なくす
-色々,いろいろ
-渡る,わたる
-暗い,くらい
-此方,こちら
-重い,おもい
-今晩,こんばん
-美味しい,おいしい
-消す,けす
-易しい,やさしい
-閉める,しめる
-安い,やすい
-遠い,とおい
-短い,みじかい
-晴れる,はれる
-曲がる,まがる
-消える,きえる
-冷たい,つめたい
-青い,あおい
-吹く,ふく
-奥さん,おくさん
-引く,ひく
-段々,だんだん
-習う,ならう
-彼処,あそこ
-狭い,せまい
-軽い,かるい
-脱ぐ,ぬぐ
-万,まん
-並ぶ,ならぶ
-煩い,うるさい
-吸う,すう
-詰らない,つまらない
-閉まる,しまる
-咲く,さく
-真っ直ぐ,まっすぐ
-一,いち
-お祖母さん,おばあさん
-其方,そちら
-涼しい,すずしい
-厚い,あつい
-お兄さん,おにいさん
-お姉さん,おねえさん
-並べる,ならべる
-汚い,きたない
-危ない,あぶない
-お腹,おなか
-不味い,まずい
-曇る,くもる
-ご飯,ごはん
-磨く,みがく
-お菓子,おかし
-黄色い,きいろい
-賑やか,にぎやか
-鳴く,なく
-夕飯,ゆうはん
-葉書,はがき
-朝ご飯,あさごはん
-六つ,むっつ
-お手洗い,おてあらい
-お巡りさん,おまわりさん
-零,れい
-差す,さす
-２０日,はつか
-八つ,やっつ
-再来年,さらいねん
-良く,よく
-其処,そこ
-小さな,ちいさな
-答える,こたえる
-もう一度,もういちど
-要る,いる
-お風呂,おふろ
-背,せ
-お弁当,おべんとう
-晩御飯,ばんごはん
-昼ご飯,ひるごはん
-でも,でも
-等,など
-中,なか
-一昨日,おととい
-醤油,しょうゆ
-はい,はい
-為る,する
-彼,あれ
-１日,ついたち
-３日,みっか
-２日,ふつか
-５日,いつか
-１０日,とおか
-６日,むいか
-８日,ようか
-９日,ここのか
-来る,くる
-後,あと
-一人,ひとり
-二人,ふたり
-側,そば
-辛い,からい
-門,もん
-角,かど
-毎月,まいつき
-七,しち
-伯母さん,おばさん
-四,し
-お酒,おさけ
-入り口,いりぐち
-出口,でぐち
-お皿,おさら
-此処,ここ
-前,まえ
-もう,もう
-如何,どう
-方,かた
-未だ,まだ
-もっと,もっと
-何時,いつ
-他,ほか
-次,つぎ
-何方,どちら
-誰か,だれか
-開く,あく
-どうぞ,どうぞ
-こんな,こんな
-下,した
-而して,そして
-ゆっくり,ゆっくり
-さあ,さあ
-どうも,どうも
-じゃあ,じゃあ
-其れから,それから
-ええ,ええ
-それでは,それでは
-明後日,あさって
-何れ,どれ
-２０歳,はたち
-彼方,あちら
-では,では
-４日,よっか
-温い,ぬるい
-７日,なのか
-然うして,そうして
-直ぐに,すぐに
-一月,ひとつき
-あの,あの
-忘れる,わすれる
-字引,じびき
-いいえ,いいえ
+会社,かいしゃ,company, corporation, firm
+上げる,あげる,to raise, to elevate
+結婚,けっこん,marriage
+言葉,ことば,language, dialect
+目,め,eye, eyeball
+走る,はしる,to run
+名前,なまえ,name
+旅行,りょこう,travel, trip, journey, excursion, tour
+道,みち,road, path, street, lane, passage
+飛行機,ひこうき,airplane, aeroplane, plane, aircraft
+映画,えいが,movie, film, motion picture
+音楽,おんがく,music
+木,き,tree, shrub, bush
+大学,だいがく,university, college
+時計,とけい,clock, watch, timepiece
+家族,かぞく,family
+花,はな,flower, blossom, bloom, petal
+猫,ねこ,cat (esp. the domestic cat, Felis catus)
+毎日,まいにち,every day
+宿題,しゅくだい,homework, assignment
+雪,ゆき,snow, snowfall
+山,やま,mountain, hill
+窓,まど,window
+動物,どうぶつ,animal
+夜,よる,evening, night
+料理,りょうり,cooking, cookery, cuisine, meal, food, dish, item on a menu
+夏,なつ,summer
+新聞,しんぶん,newspaper
+公園,こうえん,(public) park
+意味,いみ,meaning, significance, sense
+自転車,じてんしゃ,bicycle, bike
+足,あし,foot, paw, arm (of an octopus, squid, etc.)
+電車,でんしゃ,train, electric train
+散歩,さんぽ,walk, stroll
+声,こえ,voice
+朝,あさ,morning
+歌,うた,song, singing
+靴,くつ,shoe, shoes, boots, footwear, footgear
+箱,はこ,box, case, chest, package, pack, crate
+机,つくえ,desk
+帽子,ぼうし,hat, cap
+海,うみ,sea, ocean, waters
+授業,じゅぎょう,lesson, class, teaching, instruction, classwork, schoolwork
+銀行,ぎんこう,bank, banking institution
+写真,しゃしん,photograph, photo, picture, snapshot, snap
+冬,ふゆ,winter
+村,むら,village
+傘,かさ,umbrella, parasol
+口,くち,mouth
+橋,はし,bridge
+病院,びょういん,hospital, clinic, doctor's office, doctor's surgery, infirmary
+図書館,としょかん,library
+春,はる,spring, springtime
+買い物,かいもの,shopping, purchased goods
+椅子,いす,chair, seat, stool, bench
+自動車,じどうしゃ,car, automobile, motorcar, motor vehicle, auto
+色,いろ,colour, color, hue, tint, tinge, shade
+卵,たまご,eggs, egg, spawn, roe
+肉,にく,flesh
+風邪,かぜ,(common) cold, influenza, flu, ague, inflammatory respiratory system illness (in general)
+掃除,そうじ,cleaning, sweeping, dusting, scrubbing
+紙,かみ,paper
+鍵,かぎ,key
+雑誌,ざっし,journal, magazine, periodical
+切符,きっぷ,ticket
+外国人,がいこくじん,foreigner, foreign citizen, foreign national, alien, non-Japanese
+財布,さいふ,wallet, purse, coin purse, billfold, pocketbook
+鉛筆,えんぴつ,pencil
+大人,おとな,adult, grown-up
+地図,ちず,map, atlas, chart, plan
+塩,しお,salt, common salt, table salt, sodium chloride
+砂糖,さとう,sugar
+夏休み,なつやすみ,summer vacation, summer holiday
+郵便局,ゆうびんきょく,post office
+池,いけ,pond
+教室,きょうしつ,classroom, lecture room
+耳,みみ,ear
+台所,だいどころ,kitchen
+切手,きって,stamp (postage), merchandise certificate
+電気,でんき,electricity
+歯,は,tooth, teeth
+作文,さくぶん,writing (an essay, prose, etc.), composition
+紅茶,こうちゃ,black tea
+家庭,かてい,home, household, family, hearth
+野菜,やさい,vegetable
+風呂,ふろ,bath, bathing, bathtub, bathroom
+玄関,げんかん,entrance, front door, entryway, entranceway, entry hall, vestibule, porch, foyer, mud room
+地下鉄,ちかてつ,subway, metro, underground (railway)
+鼻,はな,nose
+緑,みどり,green
+昼,ひる,noon, midday
+西,にし,west
+白,しろ,white
+洗濯,せんたく,washing, laundry
+冷蔵庫,れいぞうこ,refrigerator, fridge
+南,みなみ,south
+火曜日,かようび,Tuesday
+北,きた,north
+茶色,ちゃいろ,brown, light brown, tawny
+喫茶店,きっさてん,coffee shop, tearoom, coffee lounge, coffeehouse, cafe
+喫茶店,きっさてん,coffee shop, tearoom, coffee lounge, coffeehouse, cafe
+青,あお,blue, azure
+靴下,くつした,socks, sock, stockings, stocking
+封筒,ふうとう,envelope
+辺,へん,area, vicinity, region
+黄色,きいろ,yellow, amber
+映画館,えいがかん,movie theatre, movie theater, cinema
+箸,はし,chopsticks
+食堂,しょくどう,dining room, dining hall, cafeteria, canteen, messroom
+牛肉,ぎゅうにく,beef
+交差点,こうさてん,crossing, intersection
+漢字,かんじ,kanji, Chinese character
+茶碗,ちゃわん,rice bowl, tea cup, teacup
+曇り,くもり,cloudiness, cloudy weather
+背広,せびろ,business suit
+灰皿,はいざら,ashtray
+万年筆,まんねんひつ,fountain pen
+大使館,たいしかん,embassy
+豚肉,ぶたにく,pork
+交番,こうばん,police box, koban, small neighborhood police station
+飲む,のむ,to drink, to gulp, to swallow, to take (medicine)
+頭,あたま,head
+日曜日,にちようび,Sunday
+誕生日,たんじょうび,birthday
+可愛い,かわいい,cute, adorable, charming, lovely, pretty
+鞄,かばん,bag, satchel, briefcase, basket
+土曜日,どようび,Saturday
+月曜日,げつようび,Monday
+金曜日,きんようび,Friday
+花瓶,かびん,(flower) vase
+木曜日,もくようび,Thursday
+本棚,ほんだな,bookshelves, bookshelf, bookcase
+石鹸,せっけん,soap
+水曜日,すいようび,Wednesday
+飴,あめ,(hard) candy, toffee
+八百屋,やおや,greengrocer, fruit and vegetable shop
+成る,なる,to become, to get, to grow, to turn, to reach, to attain
+より,より,than
+一番,いちばん,number one, first, first place
+私,わたし,I, me
+外,そと,outside, exterior
+姉,あね,older sister, elder sister
+百,ひゃく,hundred, 100
+有る,ある,to be, to exist, to live
+其の,その,that, the
+言う,いう,to say, to utter, to declare
+出来る,できる,to be able to do, to be possible, to be permitted (to do)
+良い,よい,good, excellent, fine, nice, pleasant, agreeable
+下さい,ください,please (give me)
+見る,みる,to see, to look, to watch, to view, to observe
+此の,この,this
+自分,じぶん,myself, yourself, oneself, himself, herself
+知る,しる,to know, to be aware (of), to be conscious (of), to learn (of), to find out, to discover
+持つ,もつ,to hold (in one's hand), to take, to carry
+何,なに,what
+車,くるま,car, automobile, vehicle
+話す,はなす,to talk, to speak, to converse, to chat
+今,いま,now, the present time, just now, soon, immediately
+今日,きょう,today, this day
+買う,かう,to buy, to purchase
+読む,よむ,to read
+皆,みんな,everyone, everybody, all
+新しい,あたらしい,new, novel, fresh, recent, latest, up-to-date, modern
+話,はなし,talk, speech, chat, conversation
+明日,あした,tomorrow
+昨日,きのう,yesterday
+出る,でる,to leave, to exit, to go out, to come out, to get out
+勉強,べんきょう,study
+取る,とる,to take, to pick up, to grab, to catch
+誰,だれ,who
+お金,おかね,money
+男,おとこ,man, male
+犬,いぬ,dog (Canis (lupus) familiaris)
+使う,つかう,to use (a tool, method, etc.), to make use of, to put to use
+大変,たいへん,very, greatly, terribly, awfully
+待つ,まつ,to wait
+作る,つくる,to make, to produce, to manufacture, to build, to construct
+後ろ,うしろ,back, behind, rear
+町,まち,town, block, neighbourhood, neighborhood
+駅,えき,railway station, train station
+少し,すこし,a little, a bit, a small amount, a few, some, slightly, somewhat
+貴方,あなた,you
+欲しい,ほしい,wanting (to have), desiring, wishing for
+行く,いく,to go, to move (towards), to head (towards), to leave (for)
+乗る,のる,to get on (train, plane, bus, ship, etc.), to get in, to board, to take, to embark
+大きな,おおきな,big, large, great
+医者,いしゃ,doctor, physician
+終わる,おわる,to end, to come to an end, to finish, to close, to be over
+学生,がくせい,student (esp. a university student)
+長い,ながい,long (distance, length)
+何の,どの,which, what (way)
+国,くに,country, state
+又,また,again, once more, once again, another time, some other time
+高い,たかい,high, tall
+余り,あまり,remainder, remnant, rest, balance, surplus, remains (of a meal), leftovers
+難しい,むずかしい,difficult, hard, troublesome, complicated, serious (disease, problem, etc.)
+友達,ともだち,friend, companion
+本当,ほんとう,truth, reality, actuality, fact
+一つ,ひとつ,one
+寝る,ねる,to sleep (lying down)
+生徒,せいと,pupil, student, schoolchild
+忙しい,いそがしい,busy, occupied, hectic
+両親,りょうしん,parents, both parents
+泳ぐ,およぐ,to swim
+出す,だす,to take out, to get out
+立つ,たつ,to stand (up), to rise, to get to one's feet, to stand on end (e.g. of hairs), to stick up
+早い,はやい,fast, quick, rapid, swift, speedy, brisk, prompt
+楽しい,たのしい,enjoyable, fun, pleasant, happy, delightful
+面白い,おもしろい,interesting, fascinating, intriguing, enthralling
+絵,え,picture, drawing, painting, sketch
+女の子,おんなのこ,girl, daughter, baby girl
+着る,きる,to wear (from the shoulders down), to put on
+上手,じょうず,skillful, skilled, proficient, good (at), adept, clever
+古い,ふるい,old, aged, ancient, antiquated, antique, timeworn
+強い,つよい,strong, potent, competent, domineering, tough
+全部,ぜんぶ,all, entire, whole, altogether
+呼ぶ,よぶ,to call out (to), to call, to invoke
+午後,ごご,afternoon, p.m.
+掛ける,かける,to hang up (e.g. a coat, a picture on the wall), to let hang, to suspend (from), to hoist (e.g. sail), to raise (e.g. flag)
+辞書,じしょ,dictionary, lexicon
+天気,てんき,weather
+体,からだ,body
+大きい,おおきい,big, large, great
+夕べ,ゆうべ,evening
+質問,しつもん,question, inquiry, enquiry
+有名,ゆうめい,famous, well-known
+兄,あに,older brother, elder brother
+歌う,うたう,to sing
+上る,のぼる,to ascend, to go up, to climb
+服,ふく,clothes (esp. Western clothes), clothing, dress, costume, suit, outfit
+鳥,とり,bird
+時々,ときどき,sometimes, occasionally, at times, from time to time, now and then, once in a while, at intervals
+妹,いもうと,younger sister
+二つ,ふたつ,two
+頼む,たのむ,to request, to beg, to ask
+お父さん,おとうさん,father, dad, papa, pa, pop, daddy, dada
+今朝,けさ,this morning
+遅い,おそい,slow, time-consuming, sluggish
+薬,くすり,medicine, pharmaceuticals, (legal) drugs, pill, ointment, salve
+借りる,かりる,to borrow, to have a loan
+庭,にわ,garden, yard, courtyard
+外国,がいこく,foreign country
+元気,げんき,lively, full of spirit, energetic, vigorous, vital, spirited
+小さい,ちいさい,small, little, tiny
+弟,おとうと,younger brother, little brother, kid brother
+今年,ことし,this year
+魚,さかな,fish
+お母さん,おかあさん,mother, mom, mum, ma
+男の子,おとこのこ,boy, son, baby boy
+飛ぶ,とぶ,to fly, to soar
+売る,うる,to sell
+静か,しずか,quiet, silent
+休む,やすむ,to be absent, to take a day off
+食べ物,たべもの,food
+大切,たいせつ,important, significant, serious, crucial
+警官,けいかん,police officer, policeman, constable
+来週,らいしゅう,next week
+建物,たてもの,building
+暖かい,あたたかい,warm, mild, (pleasantly) hot
+降りる,おりる,to descend (e.g. a mountain), to go down, to come down
+止まる,とまる,to stop (moving), to come to a stop
+一緒,いっしょ,(doing) together
+先週,せんしゅう,last week, the week before
+白い,しろい,white
+少ない,すくない,few, little, small (amount), low, scarce, insufficient, seldom, rare
+二,に,two, 2
+赤い,あかい,red, crimson, scarlet, vermilion
+洗う,あらう,to wash, to cleanse, to rinse
+嫌い,きらい,disliked, hated, disagreeable
+立派,りっぱ,splendid, fine, handsome, elegant, imposing, prominent, impressive
+暇,ひま,spare time, free time, leisure
+お茶,おちゃ,tea (esp. green or barley)
+広い,ひろい,spacious, vast, wide
+去年,きょねん,last year
+大好き,だいすき,liking very much, loving (something or someone), adoring, being very fond of
+隣,となり,next (to), adjoining, adjacent
+女,おんな,woman, female
+切る,きる,to cut, to cut through, to perform (surgery)
+多分,たぶん,probably, likely, perhaps, maybe
+嫌,いや,disliking, not wanting, unwilling (to do), reluctant
+毎朝,まいあさ,every morning
+荷物,にもつ,luggage, baggage, package
+番号,ばんごう,number, series of digits
+返す,かえす,to return (something), to restore, to put back
+来年,らいねん,next year
+明るい,あかるい,light, well-lit, well-lighted
+近い,ちかい,near, close, short (distance)
+向こう,むこう,opposite side, other side, opposite direction
+始め,はじめ,beginning, start, outset, opening
+痛い,いたい,painful, sore
+秋,あき,autumn, fall
+休み,やすみ,rest, recess, respite
+練習,れんしゅう,practice, training, drill, (an) exercise, workout
+十,じゅう,ten, 10
+先月,せんげつ,last month
+上着,うわぎ,coat, jacket, outerwear
+結構,けっこう,splendid, nice, wonderful, delightful, lovely, excellent, fine
+兄弟,きょうだい,siblings, brothers and sisters
+毎年,まいとし,every year, yearly, annually
+来月,らいげつ,next month
+五,ご,five, 5
+飲み物,のみもの,drink, beverage
+弱い,よわい,weak, frail, delicate, tender, unskilled, weak (wine)
+牛乳,ぎゅうにゅう,(cow's) milk
+三,さん,three, 3
+大丈夫,だいじょうぶ,safe, secure, sound, problem-free, without fear, all right, alright, OK, okay
+黒い,くろい,black
+皆さん,みなさん,all, everyone, everybody
+半分,はんぶん,half
+押す,おす,to push, to thrust, to shove
+勤める,つとめる,to work (for), to be employed (at), to serve (in)
+熱い,あつい,hot (to the touch)
+三つ,みっつ,three
+果物,くだもの,fruit
+今週,こんしゅう,this week
+甘い,あまい,sweet-tasting, sweet, sugary, sugared
+右,みぎ,right, right-hand side
+晩,ばん,evening, night
+階段,かいだん,stairs, stairway, staircase
+幾つ,いくつ,how many
+大勢,おおぜい,crowd of people, great number of people
+張る,はる,to stick, to paste, to affix
+夕方,ゆうがた,early evening (usu. from 3pm to 6pm), dusk
+低い,ひくい,low (rank, degree, value, content, quality, etc.)
+左,ひだり,left, left-hand side
+毎週,まいしゅう,every week
+下手,へた,unskillful, poor, awkward
+千,せん,thousand, 1,000
+渡す,わたす,to ferry across (e.g. a river), to carry across, to traverse
+午前,ごぜん,morning, a.m.
+丸い,まるい,round, circular, spherical
+便利,べんり,convenient, handy, useful
+今月,こんげつ,this month
+浴びる,あびる,to dash over oneself (e.g. water), to take (e.g. shower), to bask in (e.g. the sun), to bathe in, to be flooded with (e.g. light), to be covered in
+半,はん,half, semi-, partial
+洋服,ようふく,Western-style clothes (cf. traditional Japanese clothes)
+撮る,とる,to take (a photograph)
+締める,しめる,to tie, to fasten, to tighten
+文章,ぶんしょう,writing, composition, essay, article, passage, prose, (writing) style
+薄い,うすい,thin (of an object)
+八,はち,eight, 8
+横,よこ,horizontal (as opposed to vertical), lying down
+四つ,よっつ,four, 4
+六,ろく,six, 6
+丈夫,じょうぶ,healthy, robust, strong, solid, durable
+毎晩,まいばん,every night
+東,ひがし,east
+晴れ,はれ,clear weather, fine weather
+五つ,いつつ,five
+細い,ほそい,thin, slender, fine
+廊下,ろうか,corridor, hallway, passageway
+太い,ふとい,fat, thick
+縦,たて,the vertical, height
+七つ,ななつ,seven
+留学生,りゅうがくせい,overseas student, exchange student
+九つ,ここのつ,nine
+一昨年,おととし,year before last
+人,ひと,person, someone, somebody
+居る,いる,to be (of animate objects), to exist
+其れ,それ,that, it
+物,もの,thing, object, article, stuff, substance
+家,いえ,house, residence, dwelling
+本,ほん,book, volume, script
+迚も,とても,very, awfully, exceedingly
+会う,あう,to meet, to encounter, to see
+好き,すき,liking, being fond of, to one's liking, to one's taste, preferred, favourite
+分かる,わかる,to understand, to comprehend, to grasp, to see, to get, to follow
+此れ,これ,this, this one
+聞く,きく,to hear
+所,ところ,place, spot, scene, site
+先,さき,point, tip, end, nozzle
+何時も,いつも,always, all the time, at all times
+書く,かく,to write, to compose, to pen
+沢山,たくさん,a lot, lots, plenty, many, a large number, much, a great deal, a good deal
+入る,はいる,to enter, to come in, to go in, to get in, to arrive
+置く,おく,to put, to place
+何処,どこ,where, what place
+住む,すむ,to live (of humans), to reside, to inhabit, to dwell, to abide
+食べる,たべる,to eat
+歩く,あるく,to walk
+働く,はたらく,to work, to labor, to labour
+着く,つく,to arrive at, to reach
+上,うえ,above, over, up
+悪い,わるい,bad, poor, undesirable
+教える,おしえる,to teach, to instruct
+降る,ふる,to fall (of rain, snow, ash, etc.), to come down
+死ぬ,しぬ,to die, to pass away
+帰る,かえる,to return, to come home, to go home, to go back
+多い,おおい,many, numerous, a lot
+出かける,でかける,to go out (e.g. on an excursion or outing), to leave, to depart, to start, to set out
+若い,わかい,young, youthful
+掛かる,かかる,to take (a resource, e.g. time or money)
+同じ,おなじ,same, identical, equal, alike, equivalent
+起きる,おきる,to get up, to rise, to blaze up (fire)
+座る,すわる,to sit, to squat
+店,みせ,store, shop, establishment, restaurant
+入れる,いれる,to put in, to let in, to take in, to bring in, to insert, to install (e.g. software), to set (a jewel, etc.), to ink in (e.g. tattoo)
+何方,どなた,who
+一寸,ちょっと,a little, a bit, slightly
+疲れる,つかれる,to get tired, to tire, to get fatigued, to become exhausted, to grow weary
+開ける,あける,to open (a door, etc.), to unwrap (e.g. parcel, package), to unlock
+何故,なぜ,why, how, for what reason
+一日,いちにち,one day
+寒い,さむい,cold (e.g. weather)
+見せる,みせる,to show, to display
+違う,ちがう,to differ (from), to be different, to be distinct, to be unlike, to vary, to disagree (with)
+如何して,どうして,how, in what way, by what means
+付ける,つける,to attach, to join, to connect, to add, to append, to affix, to stick, to glue, to fasten, to sew on, to apply (ointment), to put against
+覚える,おぼえる,to memorize, to memorise, to commit to memory, to learn by heart, to bear in mind, to remember
+近く,ちかく,near, neighbourhood, neighborhood, vicinity
+風,かぜ,wind, breeze, draught, draft
+困る,こまる,to be troubled, to have difficulty, to be in a fix, to be at a loss, to be stumped, to be embarrassed
+生まれる,うまれる,to be born
+丁度,ちょうど,exactly, precisely, just, right, opportunely, fortunately
+初めて,はじめて,for the first time
+始まる,はじまる,to begin, to start, to commence
+貸す,かす,to lend, to loan
+綺麗,きれい,pretty, lovely, beautiful, fair
+幾ら,いくら,how much
+空,そら,sky, the air, the heavens
+弾く,ひく,to play (a stringed or keyboard instrument)
+暑い,あつい,hot, warm, sultry, heated
+遊ぶ,あそぶ,to play (games, sports), to enjoy oneself, to have a good time
+然し,しかし,however, but
+無くす,なくす,to lose (something)
+色々,いろいろ,various, a variety of, all sorts of, many (different)
+渡る,わたる,to cross over, to go across
+暗い,くらい,dark, gloomy, murky
+此方,こちら,this way, this direction
+重い,おもい,heavy, weighty
+今晩,こんばん,tonight, this evening
+美味しい,おいしい,good(-tasting), nice, delicious, tasty
+消す,けす,to erase, to rub out, to rub off, to cross out, to delete
+易しい,やさしい,easy, plain, simple
+閉める,しめる,to close, to shut
+安い,やすい,cheap, inexpensive
+遠い,とおい,far, distant, far away, a long way off, in the distance
+短い,みじかい,short
+晴れる,はれる,to clear up, to clear away, to be sunny, to stop raining
+曲がる,まがる,to bend, to curve, to warp, to wind, to twist
+曲がる,まがる,to bend, to curve, to warp, to wind, to twist
+冷たい,つめたい,cold (to the touch), chilly, icy, freezing
+青い,あおい,blue, azure
+吹く,ふく,to blow (of the wind)
+奥さん,おくさん,wife, your wife, his wife, married lady, madam
+引く,ひく,to pull, to tug, to lead (e.g. a horse)
+段々,だんだん,gradually, by degrees, little by little, more and more, increasingly
+習う,ならう,to take lessons in, to be taught, to learn (from a teacher), to study (under a teacher), to get training in
+彼処,あそこ,there, over there, that place, yonder, you-know-where
+狭い,せまい,narrow, confined, small, cramped
+軽い,かるい,light (i.e. not heavy), feeling light (i.e. offering little resistance, moving easily)
+脱ぐ,ぬぐ,to take off (clothes, shoes, etc.), to undress
+万,まん,10,000, ten thousand
+並ぶ,ならぶ,to line up, to stand in a line
+煩い,うるさい,noisy, loud
+吸う,すう,to smoke, to breathe in, to inhale
+詰らない,つまらない,dull, uninteresting, boring, tedious
+閉まる,しまる,to be shut, to close, to be closed
+咲く,さく,to bloom, to flower, to blossom, to open
+真っ直ぐ,まっすぐ,straight (ahead), direct, upright, erect
+一,いち,one, 1
+お祖母さん,おばあさん,grandmother
+其方,そちら,that way, that direction
+涼しい,すずしい,cool, refreshing
+厚い,あつい,thick, deep, heavy
+お兄さん,おにいさん,older brother, elder brother
+お姉さん,おねえさん,older sister, elder sister
+並べる,ならべる,to line up, to set up, to arrange in a line
+汚い,きたない,dirty, filthy, foul, unclean
+危ない,あぶない,dangerous, risky, hazardous, perilous, precarious
+お腹,おなか,belly, abdomen, stomach
+不味い,まずい,bad (taste), unpalatable, unsavoury, unsavory, awful, terrible, unpleasant
+曇る,くもる,to get cloudy, to cloud over, to become overcast
+ご飯,ごはん,cooked rice
+磨く,みがく,to polish, to shine, to burnish, to scour, to scrub, to brush (teeth), to grind (e.g. a lens)
+お菓子,おかし,confections, sweets, candy, cake
+黄色い,きいろい,yellow
+賑やか,にぎやか,bustling, busy, crowded, lively, prosperous, thriving
+鳴く,なく,to make sound (of an animal), to call, to cry, to whine, to sing, to chirp
+夕飯,ゆうはん,evening meal, dinner, supper
+葉書,はがき,postcard
+朝ご飯,あさごはん,breakfast
+六つ,むっつ,six
+お手洗い,おてあらい,toilet, restroom, lavatory, bathroom
+お巡りさん,おまわりさん,police officer
+零,れい,zero, nought
+差す,さす,to shine
+２０日,はつか,20th day of the month
+八つ,やっつ,eight
+再来年,さらいねん,year after next
+良く,よく,nicely, properly, well, skillfully, skilfully
+其処,そこ,there (place relatively near listener)
+小さな,ちいさな,small, little, tiny
+答える,こたえる,to answer, to reply
+もう一度,もういちど,once more, again
+要る,いる,to be needed, to be necessary, to be required, to be wanted, to need, to want
+お風呂,おふろ,bath
+背,せ,back
+お弁当,おべんとう,bento, Japanese box lunch
+晩御飯,ばんごはん,dinner, evening meal
+昼ご飯,ひるごはん,lunch, midday meal
+でも,でも,but, however, though, nevertheless, still, yet, even so, also, as well
+等,など,et cetera, etc., and the like, and so forth
+中,なか,inside, interior
+一昨日,おととい,day before yesterday
+醤油,しょうゆ,soy sauce, soya sauce, shoyu
+はい,はい,yes, that is correct
+為る,する,to do, to carry out, to perform
+彼,あれ,that, that thing
+１日,ついたち,1st day of the month
+３日,みっか,3rd day of the month
+２日,ふつか,2nd day of the month
+５日,いつか,5th day of the month
+１０日,とおか,10th day of the month
+６日,むいか,6th day of the month
+８日,ようか,8th day of the month
+９日,ここのか,9th day of the month
+来る,くる,to come (spatially or temporally), to approach, to arrive
+後,あと,behind, rear
+一人,ひとり,one person
+二人,ふたり,two persons, two people, pair, couple
+側,そば,near, close, beside, vicinity, proximity, besides, while
+辛い,からい,spicy, hot
+門,もん,gate
+角,かど,corner, edge
+毎月,まいつき,every month, each month, monthly
+七,しち,seven
+伯母さん,おばさん,aunt
+四,し,four, 4
+お酒,おさけ,alcohol, sake
+入り口,いりぐち,entrance, entry, gate, approach, mouth
+出口,でぐち,exit, way out
+お皿,おさら,plate, dish
+此処,ここ,here, this place
+前,まえ,in front (of), before (e.g. a building)
+もう,もう,already, yet, by now, now, (not) any more, (not) any longer
+如何,どう,how, in what way, how about
+方,かた,direction, way
+未だ,まだ,still, as yet, only
+もっと,もっと,(some) more, even more, longer, further
+何時,いつ,when, at what time, how soon
+他,ほか,another place, some other place, somewhere else, outside
+次,つぎ,next, following, subsequent
+何方,どちら,which way, which direction, where
+誰か,だれか,someone, somebody
+開く,あく,to open (e.g. doors)
+どうぞ,どうぞ,please, kindly, pray, I beg (of you)
+こんな,こんな,this sort of, this kind of, like this, such
+下,した,below, down, under, younger (e.g. daughter)
+而して,そして,and, and then, thus, and now, and finally
+ゆっくり,ゆっくり,slowly, unhurriedly, without haste, leisurely, at one's leisure
+さあ,さあ,come (on), come now, come along, here
+どうも,どうも,thank you, thanks
+じゃあ,じゃあ,then, well, so, well then
+其れから,それから,and then, after that
+ええ,ええ,yes, that is correct, right
+それでは,それでは,well, ..., right, ..., now, ...
+明後日,あさって,day after tomorrow
+何れ,どれ,which (of three or more)
+２０歳,はたち,20 years old
+彼方,あちら,that way, that direction, over there, yonder
+では,では,then, well, so, well then
+４日,よっか,4th day of the month
+温い,ぬるい,lukewarm, tepid
+７日,なのか,7th day of the month
+然うして,そうして,and, like that
+直ぐに,すぐに,immediately, right away, at once, instantly
+一月,ひとつき,one month
+あの,あの,say, well, um, er
+忘れる,わすれる,to forget, to leave carelessly, to be forgetful of, to forget about, to forget (an article)
+字引,じびき,dictionary
+いいえ,いいえ,no
