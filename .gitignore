@@ -3,10 +3,7 @@ quotes.txt
 # Ignore the fetch_jisho_words.py script
 jisho/fetch_jisho_words.py
 # Ignore the remove_katakana_lines.py script
-jisho/remove_katakana_lines.py
+jisho/remove_lines.py
 
 fetch_historical_words.py
-
-
-remove_hiragana_lines.py
 

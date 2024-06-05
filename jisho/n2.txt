@@ -378,7 +378,6 @@
 合流,ごうりゅう,confluence (of rivers), flowing together, joining
 一昨日,おととい,day before yesterday
 醤油,しょうゆ,soy sauce, soya sauce, shoyu
-けど,けど,but, however, although
 大分,だいぶ,considerably, greatly, a lot
 下る,くだる,to descend, to go down, to come down
 間もなく,まもなく,soon, shortly, before long, in a short time, in a little while

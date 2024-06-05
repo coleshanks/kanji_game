@@ -471,7 +471,6 @@
 斯う,こう,in this way, like this, so, thus
 看護師,かんごし,(hospital) nurse, registered nurse, RN
 降り出す,ふりだす,to begin to rain, to begin to snow
-けど,けど,but, however, although
 日,ひ,day, days
 大分,だいぶ,considerably, greatly, a lot
 間,あいだ,space (between), gap, interval, distance, stretch
@@ -479,7 +478,6 @@
 熱,ねつ,heat
 運転手,うんてんしゅ,driver, chauffeur
 木綿,もめん,cotton (material)
-あっ,あっ,ah, oh
 開く,あく,to open (e.g. doors)
 一杯,いっぱい,one cup (of), one glass (of), one bowl (of), cupful, glassful, bowlful, spoonful
 用,よう,business, task, errand, engagement
@@ -494,34 +492,19 @@
 都,と,Metropolis (of Tokyo), (Tokyo) Metropolitan District, metropolitan prefecture
 家内,かない,(my) wife
 お見舞い,おみまい,calling on someone who is ill, enquiry, inquiry
-そう,そう,appearing that, seeming that, looking like, having the appearance of
-そんな,そんな,such, that sort of, that kind of, like that
 若し,もし,if, in case, supposing
 止める,やめる,to stop (an activity), to cease, to discontinue, to end, to quit
 非常に,ひじょうに,very, extremely, exceedingly
-だから,だから,so, therefore, accordingly, consequently, on those grounds, that is why, for that reason
-はっきり,はっきり,clearly, plainly, distinctly
-すっかり,すっかり,all, completely, totally, entirely, thoroughly
 漸と,やっと,at last, finally
-あんな,あんな,that sort of, that kind of, like that, such, so
-そろそろ,そろそろ,soon, before long, any time now, momentarily
 米,こめ,(husked grains of) rice
-いらっしゃる,いらっしゃる,to come, to go, to be (somewhere)
 其れで,それで,so, therefore, and, (and) then
-どんどん,どんどん,drumming (noise), beating, pounding, banging, booming, stamping
-ちゃん,ちゃん,suffix for familiar person
 汚れる,よごれる,to get dirty, to become dirty
 ご馳走,ごちそう,treat (esp. food and drink), entertainment, treating someone (to a meal), taking someone to dinner
 この頃,このごろ,these days, nowadays, now, at present, recently, lately
-すると,すると,(and) then, and, thereupon, whereupon
 先,さっき,a short while ago, a moment ago, just now, some time ago
 其れに,それに,besides, in addition, also, moreover
 この間,このあいだ,the other day, lately, recently, during this period
-すっと,すっと,straight, quickly, directly, all of a sudden
-そんなに,そんなに,so much, so, like that
 仰る,おっしゃる,to say, to speak, to tell, to talk
-うん,うん,yes, yeah, uh huh
-ああ,ああ,like that, so
 ご覧になる,ごらんになる,to see, to look, to watch
 妻,つま,wife
 気持ち,きもち,feeling, sensation, mood, state of mind

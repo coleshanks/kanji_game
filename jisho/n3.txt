@@ -435,7 +435,6 @@
 幾ら,いくら,how much
 真っ直ぐ,まっすぐ,straight (ahead), direct, upright, erect
 お腹,おなか,belly, abdomen, stomach
-と,と,if, when
 大抵,たいてい,mostly, ordinarily, usually, generally
 値段,ねだん,price, cost
 形,かたち,form, shape, figure
@@ -458,7 +457,6 @@
 共同,きょうどう,cooperation, collaboration, association, partnership, (acting in) unison
 通り,とおり,street, road, avenue, thoroughfare
 埃,ほこり,dust
-でも,でも,but, however, though, nevertheless, still, yet, even so, also, as well
 日,にち,Sunday
 等,など,et cetera, etc., and the like, and so forth
 事,こと,thing, matter

@@ -135,7 +135,6 @@
 飴,あめ,(hard) candy, toffee
 八百屋,やおや,greengrocer, fruit and vegetable shop
 成る,なる,to become, to get, to grow, to turn, to reach, to attain
-より,より,than
 一番,いちばん,number one, first, first place
 私,わたし,I, me
 外,そと,outside, exterior
@@ -499,12 +498,10 @@
 お弁当,おべんとう,bento, Japanese box lunch
 晩御飯,ばんごはん,dinner, evening meal
 昼ご飯,ひるごはん,lunch, midday meal
-でも,でも,but, however, though, nevertheless, still, yet, even so, also, as well
 等,など,et cetera, etc., and the like, and so forth
 中,なか,inside, interior
 一昨日,おととい,day before yesterday
 醤油,しょうゆ,soy sauce, soya sauce, shoyu
-はい,はい,yes, that is correct
 為る,する,to do, to carry out, to perform
 彼,あれ,that, that thing
 １日,ついたち,1st day of the month
@@ -533,40 +530,27 @@
 お皿,おさら,plate, dish
 此処,ここ,here, this place
 前,まえ,in front (of), before (e.g. a building)
-もう,もう,already, yet, by now, now, (not) any more, (not) any longer
 如何,どう,how, in what way, how about
 方,かた,direction, way
 未だ,まだ,still, as yet, only
-もっと,もっと,(some) more, even more, longer, further
 何時,いつ,when, at what time, how soon
 他,ほか,another place, some other place, somewhere else, outside
 次,つぎ,next, following, subsequent
 何方,どちら,which way, which direction, where
 誰か,だれか,someone, somebody
 開く,あく,to open (e.g. doors)
-どうぞ,どうぞ,please, kindly, pray, I beg (of you)
-こんな,こんな,this sort of, this kind of, like this, such
 下,した,below, down, under, younger (e.g. daughter)
 而して,そして,and, and then, thus, and now, and finally
-ゆっくり,ゆっくり,slowly, unhurriedly, without haste, leisurely, at one's leisure
-さあ,さあ,come (on), come now, come along, here
-どうも,どうも,thank you, thanks
-じゃあ,じゃあ,then, well, so, well then
 其れから,それから,and then, after that
-ええ,ええ,yes, that is correct, right
-それでは,それでは,well, ..., right, ..., now, ...
 明後日,あさって,day after tomorrow
 何れ,どれ,which (of three or more)
 ２０歳,はたち,20 years old
 彼方,あちら,that way, that direction, over there, yonder
-では,では,then, well, so, well then
 ４日,よっか,4th day of the month
 温い,ぬるい,lukewarm, tepid
 ７日,なのか,7th day of the month
 然うして,そうして,and, like that
 直ぐに,すぐに,immediately, right away, at once, instantly
 一月,ひとつき,one month
-あの,あの,say, well, um, er
 忘れる,わすれる,to forget, to leave carelessly, to be forgetful of, to forget about, to forget (an article)
 字引,じびき,dictionary
-いいえ,いいえ,no

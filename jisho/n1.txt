@@ -90,7 +90,6 @@
 茹でる,ゆでる,to boil (something in hot water)
 錆,さび,rust
 中指,なかゆび,middle finger, long finger, second finger, tall finger
-と,と,if, when
 螺子,ねじ,screw
 黄金,おうごん,gold (Au)
 子,こ,child, kid, teenager, youngster, young (non-adult) person
@@ -568,7 +567,6 @@
 浮力,ふりょく,buoyancy, floating power
 暗算,あんざん,mental arithmetic
 映写,えいしゃ,projection
-けど,けど,but, however, although
 間もなく,まもなく,soon, shortly, before long, in a short time, in a little while
 耐える,たえる,to bear, to stand, to endure, to put up with
 上司,じょうし,(one's) superior, (one's) boss, the higher-ups
