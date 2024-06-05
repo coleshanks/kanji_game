@@ -212,6 +212,7 @@ def game(word_size, words_list, readings_list, definitions_list):
         answer = input("Enter the reading\n")
         if answer == reading:
             score = score + 1
+            #clear()
             print(f"{BRIGHT_GREEN}correct!{RESET}")
             print(f"{BRIGHT_CYAN}{word}{RESET} ({definition})\n")
             print(f"Score: {score}/{count}\n")
@@ -230,6 +231,7 @@ def game(word_size, words_list, readings_list, definitions_list):
             input("Press any key to return to the main menu...\n")
             break
         else:
+            #clear()
             print(f"{BRIGHT_RED}incorrect!{RESET} The correct reading is: {reading}")
             print(f"{BRIGHT_CYAN}{word}{RESET} ({definition})\n")
             print(f"Score: {score}/{count}\n")
