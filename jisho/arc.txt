@@ -1,97 +1,40 @@
-稀,まれ,rare, seldom
-珍しい,めずらしい,unusual, rare, curious
-折角,せっかく,with trouble, at great pains
-滅多に無い,めったにない,rare
-希少,きしょう,scarce, rare
-珍,ちん,rare
 稀に見る,まれにみる,rare, extraordinary, singular
 少ない,すくない,few, little, small (amount), low, scarce, insufficient, seldom, rare
 不世出,ふせいしゅつ,rare, extraordinary, unparalleled, unparallelled
 生煮え,なまにえ,half-cooked, rare
-希有,けう,rare, uncommon
 類まれ,たぐいまれ,rare, exceptional, extraordinary, unique, incomparable, unparalleled, matchless
-希世,きせい,rare, uncommon
-非凡,ひぼん,extraordinary, uncommon, remarkable, unusual, rare, prodigious
 生焼け,なまやけ,half-roasted, half-baked, rare
-珍稀,ちんき,unusual, rare
 事珍し,ことめずらし,unusual, rare, curious
-珍奇,ちんき,strange, rare, novel, curious
-珍稀,ちんき,unusual, rare
-偶,たま,occasional, infrequent, rare
-古書,こしょ,old book, rare book, classic
-希代,きたい,uncommon, rare, extraordinary, matchless
-滅多,めった,thoughtless, reckless, careless, rash
-逸品,いっぴん,excellent article, fine item, rare beauty, masterpiece, gem
 凡ならざる,ぼんならざる,uncommon, extraordinary, rare
 すこぶる付き,すこぶるつき,extreme, extraordinary, rare, brilliant
 半焼け,はんやけ,half-burnt, half-done, half-baked, rare
-珍客,ちんきゃく,unexpected (but welcome) visitor, rare guest
 珍味佳肴,ちんみかこう,rare delicacies, rare treat
 希少品,きしょうひん,rare article, rare item, rarity
-珍什,ちんじゅう,rare article, rare utensil
-僻字,へきじ,rare character, rare kanji
-珍品,ちんぴん,curio, rare article
 もしもの事,もしものこと,emergency, accident, rare possibility, unexpected occurrence
-寥々,りょうりょう,lonely, dreary, desolate, barren
 希土類元素,きどるいげんそ,rare-earth element, rare-earth metal
-奇病,きびょう,strange disease, rare disease
-偶に,たまに,occasionally, once in a while, now and then
-希,き,dilute
-邂逅,わくらば,by chance, coincidental, occasional, rare
-珍事,ちんじ,strange incident, unusual occurrence, rare event
 日本希土類学会,にっぽんきどるいがっかい,Rare Earth Society of Japan
 古書店,こしょてん,secondhand bookshop, antiquarian bookshop
-奇貨,きか,curiosity, rare item, rarity
-珍物,ちんぶつ,rare item (esp. food)
 稀覯本,きこうぼん,rare book
-珍種,ちんしゅ,rare species
 稀崩壊,きほうかい,rare decay
 希少糖,きしょうとう,rare sugar
-佳肴,かこう,delicacy, rare treat, good-eating fish
 希少種,きしょうしゅ,rare species
-奇才,きさい,rare genius
-希書,きしょ,rare book
-珍貴,ちんき,rare and valuable, precious
-珍書,ちんしょ,rare book
 希元素,きげんそ,rare element
-珍籍,ちんせき,rare book
 珍事件,ちんじけん,rare event, unexpected event
-珍本,ちんぽん,rare book
-珍籍,ちんせき,rare book
 稀覯本,きこうぼん,rare book
-名器,めいき,famous utensil, excellent utensil
-珍宝,ちんぽう,rare treasure
-珍鳥,ちんちょう,rare bird
-佳肴,かこう,delicacy, rare treat, good-eating fish
 希元素,きげんそ,rare element
-珍書,ちんしょ,rare book
-珍魚,ちんぎょ,rare fish
 雨夜の星,あまよのほし,star seen on a rainy night, rare occurrence, rare sight
-奇貨,きか,curiosity, rare item, rarity
-珍獣,ちんじゅう,rare (or peculiar) animal
 希少種,きしょうしゅ,rare species
-奇才,きさい,rare genius
-珍車,ちんしゃ,rare car (motorcycle, train, etc.), unusual car, strange car
 希土類,きどるい,rare earth
 極たまに,ごくたまに,on rare occasions, once in a blue moon
 ごく稀,ごくまれ,extremely rare
-奇絶,きぜつ,very rare, exquisite
 まず無い,まずない,very rare, very unlikely (to happen), scarcely, seldom, improbable, almost never (occurring)
-珍果,ちんか,unusual fruit, rare fruit
-珍菓,ちんか,unusual candy, rare sweet
 古書展,こしょてん,exhibition of rare (old, antiquarian) books
-珍貨,ちんか,unusual item, rare treasure
-珍木,ちんぼく,unusual tree, rare tree, strange tree
-珍花,ちんか,unusual flower, rare flower
 希少部位,きしょうぶい,exclusive cut (of meat), rare cut
-幻,まぼろし,phantom, vision, illusion, apparition
 書換字,かきかえじ,substitute kanji, kanji used in place of another with the same meaning
 滅多に,めったに,rarely, seldom
-希薄,きはく,thin (air), weak (liquid), dilute, sparse (population), rarefied
 神引き,かみびき,acquiring a rare character or item (e.g. from a loot box)
 盲亀浮木,もうきふぼく,unlikely event, rare occurrence
 盲亀の浮木,もうきのふぼく,unlikely event, rare occurrence
-異本,いほん,variant edition (of a book), alternative version, different manuscript
 優曇華,うどんげ,udumbara (mythical Indian plant often identified with the cluster fig, Ficus glomerata)
 水母の骨,くらげのほね,something that one would not expect to exist, something exceedingly rare, jellyfish bones
 好事多魔,こうじたま,happy events are often accompanied by difficulties, unsullied joy is rare
@@ -100,74 +43,43 @@
 偶さか,たまさか,coincidentally, by chance, unexpectedly, accidentally, randomly
 低浮上,ていふじょう,not being very active (on social media), rarely checking in
 滅多に見られない,めったにみられない,rarely seen, uncommon
-珍芸,ちんげい,unusual trick, rarely seen skill
 疎密波,そみつは,compressional wave, longitudinal wave, dilatational wave, wave of condensation and rarefaction
 名物にうまいものなし,めいぶつにうまいものなし,the reality always falls short of the fame, local specialties rarely taste good
 もやもや病,もやもやびょう,moyamoya disease (rare, progressive cerebrovascular disorder caused by blocked arteries in the basal ganglia)
-国鱒,くにます,Oncorhynchus nerka kawamurae (rare Japanese subspecies of sockeye salmon)
-不明,ふめい,unclear, obscure, indistinct, uncertain, ambiguous
 曖昧模糊,あいまいもこ,obscure, vague, ambiguous
-漠然,ばくぜん,vague, obscure, indistinct, hazy, ambiguous
-無名,むめい,nameless, unnamed, anonymous, unsigned
 不分明,ふぶんめい,obscure, vague
 不透明,ふとうめい,opaque, obscure, murky, turbid
 不明瞭,ふめいりょう,unclear, indistinct, obscure, opaque, inarticulate, dim, blurred
-暈す,ぼかす,to blur, to shade off, to gradate
 見にくい,みにくい,hard to see
 名もない,なもない,unknown, obscure, insignificant
 ほの暗い,ほのぐらい,dim, dusky, gloomy
 不文明,ふぶんめい,indistinct, obscure
-晦渋,かいじゅう,ambiguous, obscure, equivocal
-朦朧,もうろう,dim, hazy, vague, indistinct, faint, fuzzy, cloudy, obscure
 見えづらい,みえづらい,hard to see, indistinct, obscure, illegible
 見づらい,みづらい,hard to see, indistinct, obscure, illegible
-漠,ばく,vague, obscure
 曇らす,くもらす,to encloud, to make dim, to make dull, to tarnish, to obscure, to darken, to muffle
-茫漠,ぼうばく,vast, boundless
-漠々,ばくばく,vast, boundless
-茫漠,ぼうばく,vast, boundless
 朽ち木,くちき,decayed tree, rotted tree, decayed wood, rotten wood
 日陰者,ひかげもの,person who is socially ostracized (e.g. an ex-convict, mistress, illegitimate child), social outcast, person with a shady past, person with something to hide
-鶯谷,おうこく,warbler being in a valley
-難読,なんどく,difficult to read (kanji, name, etc.), having difficult-to-read kanji
-吉日,きちじつ,lucky day, auspicious day
-吉,きち,good fortune (esp. omikuji fortune-telling result), good luck, auspiciousness
-暗に,あんに,implicitly, indirectly, tacitly, by implication, obscurely
-顕在,けんざい,being actual (as opposed to hidden or latent), being apparent, being obvious, being tangible, being revealed
-陰る,かげる,to become clouded, to darken, to get dark, to become hidden (behind clouds)
 見えにくい,みえにくい,hard to see, obscured
-先進,せんしん,advanced, developed
-高尚,こうしょう,high, noble, refined, advanced
-高度,こうど,altitude, height, elevation
-先端,せんたん,pointed end, tip, point, cusp (of a leaf, crescent moon, etc.), apex (of a curve)
 先進国,せんしんこく,advanced (developed) country, advanced nations
-上級,じょうきゅう,upper level, upper grade, high rank, advanced level, senior level, upper class
-高齢,こうれい,advanced age, old age
-老齢,ろうれい,old age, advanced age
-進化,しんか,evolution
 上級者,じょうきゅうしゃ,advanced student, advanced learner, advanced practitioner, experienced person
 新素材,しんそざい,advanced materials, new high-tech materials
 早まる,はやまる,to be brought forward (e.g. by three hours), to be moved up, to be advanced
 奥の深い,おくのふかい,deep, profound, complicated, advanced, impenetrable
 高度情報通信社会推進本部,こうどじょうほうつうしんしゃかいすいしんほんぶ,Advanced Information and Telecommunication Society Headquarters, Headquarters for Promotion of Advanced Information and Communications Society
 高等科,こうとうか,advanced course
-段位,だんい,dan rank (in martial arts, go, etc.), advanced rank, grade of black belt
 総合研究大学院大学,そうごうけんきゅうだいがくいんだいがく,Graduate University for Advanced Studies
 産業技術総合研究所,さんぎょうぎじゅつそうごうけんきゅうしょ,National Institute of Advanced Industrial Science and Technology, NAIST
 海洋理工学会,かいようりこうがっかい,Advanced Marine Science and Technology Society, AMSTEC
 北陸先端技術大学院大学,ほくりくせんたんぎじゅつだいがくいんだいがく,Japan Advanced Institute of Science and Technology, JAIST
-特論,とくろん,advanced or master's course at university
 詳細設定,しょうさいせってい,advanced settings
 先行制御,せんこうせいぎょ,advanced control
 先進兵器,せんしんへいき,advanced weapon(ry)
-特少,とくしょう,advanced juvenile training school, special reformatory, juvenile hall for grave offenders
 進行がん,しんこうがん,advanced cancer
 新型転換炉,しんがたてんかんろ,advanced thermal converter reactor
 先進工業国,せんしんこうぎょうこく,advanced industrial nation
 既得単位,きとくたんい,advanced standing (in school or college), credit for prior studies
 特別少年院,とくべつしょうねんいん,advanced juvenile training school, special reformatory, juvenile hall for grave offenders
 専修学校,せんしゅうがっこう,specialized training college, advanced vocational school
-超級,ちょうきゅう,very advanced level
 最高齢,さいこうれい,oldest, most advanced age
 総合歯科医療研究所,そうごうしかいりょうけんきゅうじょ,Japan Institute of Advanced Dentistry, JIAD
 いい年,いいとし,mature age, advanced age, maturity
@@ -178,7 +90,6 @@
 多元物質科学研究所,たげんぶっしつかがくけんきゅうじょ,Institute of Multidisciplinary Research for Advanced Materials, IMRAM
 竹槍戦術,たけやりせんじゅつ,tactics of fighting a technologically advanced adversary with primitive weapons, sole reliance on simple determination (naive spiritualism) in fighting an overwhelming foe
 新知識,しんちしき,new knowledge, up-to-date information, advanced ideas
-老身,ろうしん,old bones, aged body, advanced age
 高学歴,こうがくれき,high academic achievement, advanced academic training, higher education
 北陸先端科学技術大学院大学,ほくりくせんたんかがくぎじゅつだいがくいんだいがく,Japan Advanced Institute of Science and Technology, JAIST
 情報科学芸術大学院大学,じょうほうかがくげいじゅつだいがくいんだいがく,Institute of Advanced Media Arts and Sciences
@@ -188,10 +99,314 @@
 東京都立産業技術大学院大学,とうきょうとりつさんぎょうぎじゅつだいがくいんだいがく,Advanced Institute of Industrial Technology
 老境に入る,ろうきょうにいる,to be advanced in age
 京都先端科学大学,きょうとせんたんかがくだいがく,Kyoto University of Advanced Science
-新知,しんち,new acquaintance
 編入学,へんにゅうがく,admission and placement (e.g. to a school), transfer admission, advanced-standing admission
-御年,おんとし,age (esp. advanced)
 獣弓目,じゅうきゅうもく,Therapsida (order of advanced synapsids)
-段,だん,step, stair, rung, (flight of) steps
 天寿を全うする,てんじゅをまっとうする,to die a natural death (at an advanced age), to live out one's allotted span of life
 年を食う,としをくう,to grow older (esp. older than other people in the same group or situation), to advance in age, to be very aged
+蘞る,れんる,remains, vestiges
+虧く,きく,deficiency, lack
+屛う,びょうう,folding screen
+芻う,すうう,fodder, hay
+咢る,あくる,cackling (of birds)
+邂逅う,かいこうう,meeting by chance
+乂る,がいる,rule, government
+昧く,まいく,darkness
+觚る,こる,cup, goblet
+鞦韆る,しゅうせんる,swing (toy)
+磧く,せきく,riverbed
+饌る,せんる,feast, banquet
+顰る,ひんる,frown
+嚠る,りゅうる,clear, resounding (voice)
+沆瀣る,こうかいる,clear water
+絳く,こうく,deep red
+讌る,えんる,banquet
+蘿る,らる,ivy, vine
+苕う,しょうう,reed
+纈る,けちる,bright red dye
+衒る,げんる,show off, flaunt
+茆う,ぼうう,thatch
+袍る,ほうる,robe, gown
+畷る,てつる,moat, ditch
+谿う,けいう,ravine, gorge
+谺る,こうる,echo
+蜩る,ちょうる,cicada
+魴る,ほうる,yellowtail fish
+嚠る,りゅうる,clear, resonant (sound)
+翕う,きゅうう,close, shut
+鏤う,ろうう,inlay, engrave
+驪る,りる,black horse
+鰾う,ひょうう,swim bladder
+縞う,こうう,stripe
+鷯る,りょうる,wren
+龕る,がんる,niche, altar
+翹う,きょうう,tail (of a bird)
+砌う,さいう,threshold
+趺る,ふる,instep
+蒯う,かいう,rush, sedge
+霄う,しょうう,sky
+簷る,えんる,eaves
+蠹る,とる,woodworm
+猯る,たんる,wild boar
+瑯う,ろうう,jade
+菘る,しょうる,rapeseed
+翟る,てきる,peacock
+罌る,おうる,flower vase
+葭う,かう,reed
+翦る,せんる,cut, trim
+箝る,けんる,clamp
+饗う,きょうう,banquet
+襞う,へきう,folds, pleats
+芴う,ごつう,rush
+黠る,かつる,cunning
+谿う,けいう,valley
+醪る,ろうる,unrefined sake
+擣う,とうう,beat, strike
+鬚る,する,mustache
+蟬る,せんる,cicada
+齷齪う,あくさくう,toil, moil
+阯る,しる,site, foundation
+濠う,ごうう,moat
+孑う,けつう,orphan
+蠱る,こる,curse
+鷙う,しう,rapacious bird
+轡る,くつわる,bit (horse)
+籟る,らいる,pipe (musical instrument)
+黛う,だいう,blackened eyebrows
+闥う,たつう,door
+黼う,ふう,embroidery (on official garments)
+覃る,たんる,extensive
+麀る,ゆうる,deer
+顒う,ようう,look up (to)
+瀛う,えいう,sea
+頽る,たいる,collapse
+逵る,きる,thoroughfare
+鐔る,しんる,sword guard
+騮る,りゅうる,bay horse
+躋る,せいる,climb
+罍う,らいう,large earthenware pot
+蒯う,かいう,reed
+鸛う,かんう,stork
+狖る,ゆうる,monkey
+皞る,こうる,bright
+黼う,ふう,official garments
+靇る,ろうる,thunder
+鸚る,おうる,parrot
+雋う,しゅんう,elite
+霅る,たんる,light rain
+蚨る,ふる,stingless wasp
+螻う,ろうう,mole cricket
+螟る,めいる,cutworm
+螳う,とうう,praying mantis
+螵る,ひょうる,shell (of an insect)
+蠋る,しょくる,caterpillar
+蠨る,しょうる,spider
+蠮る,えんる,cricket
+蠵る,きいる,turtle
+蠹る,とる,woodworm
+衄う,じょくる,nosebleed
+衽う,じんう,collar
+衲る,のうる,mend clothes
+衵る,じくる,robe
+衽う,じんう,collar
+袞る,こんる,robe
+襁う,きょうる,sling
+襄う,じょうる,help
+襞う,へきる,fold
+襠う,とうる,crotch
+襤る,らんる,tattered clothes
+襦う,じゅる,short jacket
+襻う,はんる,loop
+襴う,らんる,hem
+襲う,しゅうる,attack
+襯う,ちんる,undergarment
+覃う,たんる,extensive
+觶る,さいる,small cup
+觚る,こる,cup
+觜る,しる,beak
+觥う,こうる,drinking horn
+觫う,しょくる,fright
+觿る,きいる,awl
+訾う,しる,scold
+詒う,だいる,deceive
+詭う,きる,deceive
+誄う,るいる,eulogy
+誅う,ちゅうる,punish
+誶う,すいる,scold
+誻う,たいる,be rude
+諂う,てんる,flatter
+諛う,ゆる,flatter
+謦う,けいる,clear throat
+謇う,けんる,stammer
+謚る,しる,posthumous name
+譴う,けんる,reprimand
+譬う,ひる,example
+譟う,そうる,noise
+譫う,せんる,ramble
+譴う,けんる,reprimand
+贋う,がんる,imitation
+贄う,じいる,offering
+赦う,しゃる,pardon
+赧う,たんる,blush
+赭う,しゃる,reddish
+赫う,かくる,bright
+赳う,きゅうる,stride
+趺る,ふる,instep
+跖る,せきる,sole
+踟う,ちる,hesitate
+蹕る,ひつる,escort
+蹢う,てきる,stride
+蹣う,ばんる,stumble
+躄る,びゃくる,sit
+躊う,ちゅうる,hesitate
+躡う,じょうる,step on
+躩う,かくる,leap
+躬る,きゅうる,body
+軛る,やくる,yoke
+軫る,しんる,sorrow
+輒る,ちょうる,frequent
+輜る,しる,supply wagon
+輟る,てつる,stop
+輦る,れんる,palanquin
+轂る,こくる,hub
+轄る,けつる,control
+轅る,えんる,shaft (of a cart)
+轆う,ろくる,cart
+轡る,くつわる,bit (horse)
+轍る,てつる,rut
+辜る,こる,crime
+辟う,へきる,avoid
+迯る,とうる,run away
+逋る,ほる,run away
+逎う,しゅうる,far away
+逡う,しゅんる,hesitate
+逦う,りる,go away
+逑う,きゅうる,follow
+逕う,けいる,path
+逡う,しゅんる,hesitate
+邐う,りる,go away
+邃う,すいる,deep
+邯う,かんる,creek
+邵う,しょうる,hill
+邶う,はいる,village
+鄂う,がくる,province
+鄙る,ひる,countryside
+鄧う,とうる,province
+酋う,しゅうる,chief
+酤る,こる,sell
+酲う,ている,drunk
+醍う,ている,clarified butter
+醯う,けいる,vinegar
+醯う,きいる,spirit of wine
+醴う,れいる,sweet sake
+醵う,きょる,collect
+醺る,くんる,drunk
+釆う,べいる,divide
+釉う,ゆうる,glaze
+釧る,けんる,bracelet
+釱う,ている,anklet
+釵う,さいる,hairpin
+鈑る,はんる,thin sheet of metal
+鈕る,じょうる,button
+鈸う,はくる,cymbals
+鉅う,きょる,large
+銜る,かんる,bit (horse)
+鋏る,きょうる,scissors
+鍊る,れんる,refine
+鎧る,がいり,armor
+鎪う,そうる,saw
+鏐う,りゅうる,silver
+鑠う,しゃくる,melt
+鑫る,きんる,metal
+钁る,かくる,hoe
+钅る,きんる,metal
+钆る,かつる,hook
+钉る,ている,nail
+钩う,こうる,hook
+铸る,しょくる,cast (metal)
+铷う,じゅる,rubidium
+锗う,しゃる,germanium
+镆う,まる,sword
+镏う,りゅうる,gilding
+长る,ちょうる,chief
+隙る,げきる,gap
+隗る,けいる,steep
+隨る,ずいる,follow
+隩う,おくる,corner
+隼る,しゅんる,hawk
+隽る,しゅんる,elite
+雋う,しゅんる,elite
+霆る,ている,thunder
+靇る,ろうる,thunder
+鞚る,こうる,saddle
+鞧う,きゅうる,saddle
+韝る,こうる,whip
+韞る,うんる,store
+韻る,いんる,rhyme
+頏う,こうる,throat
+頫る,ほる,look down
+顒る,ようる,look up
+顜る,きょうる,tall
+颃う,こうる,throat
+飌る,ふうる,wind
+飏る,ようる,fly
+飨る,きょうる,banquet
+餂る,てんる,taste
+饗う,きょうる,banquet
+馂う,しゅんる,food
+馥る,ふくる,fragrance
+馽る,ちょうる,cheek
+駪う,しんる,hurry
+駺る,りょうる,roam
+驊る,かいる,horse
+驌う,そくる,fast horse
+驓る,そうる,run fast
+驍る,きょうる,valiant
+驕る,きょうる,proud
+驔う,てんる,skittish horse
+驕る,きょうる,proud
+骿る,へんる,horse's shoulder
+髁う,かつる,ankle
+髑う,どくる,skull
+鬋う,せんる,hair
+鬯る,ちょうる,fragrant
+鬻る,いくる,sell
+魞る,かつる,fishing net
+魈る,しょうる,demon
+魋う,たいる,demon
+魑る,ちる,demon
+鰥う,かんる,widower
+鳧う,ふる,duck
+鳫る,かんる,goose
+鳲る,しる,swallow
+鴞う,こうる,owl
+鵬う,ほうる,large bird
+鵰る,ちょうる,hawk
+鶂る,げきる,large bird
+鶬る,とうる,bird
+鷙る,しる,rapacious bird
+鸋う,じょうる,hawk
+鸐う,てきる,hawk
+鸘る,しょうる,stork
+鸧う,とうる,bird
+鸨う,ぼうる,bird
+鸮う,きょうる,owl
+鸻る,こうる,bird
+鸾う,らんる,phoenix
+鹘う,くつる,hawk
+鹣う,けんる,ducks
+鹥る,えきる,swallow
+鹩る,りょうる,wren
+鹬う,ゆうる,snipe
+黉う,こうる,school
+黧う,りる,dark
+鼇る,ごうる,turtle
+鼈る,べつる,turtle
+鼢う,ふんる,mole
+鼯う,ごる,flying squirrel
+鼹る,えんる,mole
+龂う,こんる,gum
+龃う,しょる,uneven teeth
+龌龊う,あくさくる,filthy
+龠う,やくる,flute
+龢う,かる,harmony
+龥う,やくる,blow
