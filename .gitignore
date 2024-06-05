@@ -4,3 +4,5 @@ quotes.txt
 jisho/fetch_jisho_words.py
 # Ignore the remove_katakana_lines.py script
 jisho/remove_katakana_lines.py
+
+fetch_historical_words.py
