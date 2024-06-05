@@ -1,2 +1,4 @@
 
 quotes.txt
+# Ignore the fetch_jisho_words.py script
+jisho/fetch_jisho_words.py
