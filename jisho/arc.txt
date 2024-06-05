@@ -8,8 +8,6 @@
 少ない,すくない,few, little, small (amount), low, scarce, insufficient, seldom, rare
 不世出,ふせいしゅつ,rare, extraordinary, unparalleled, unparallelled
 生煮え,なまにえ,half-cooked, rare
-レア,レア,rare, uncommon, unusual
-そうそうない,そうそうない,rare, uncommon, not often seen
 希有,けう,rare, uncommon
 類まれ,たぐいまれ,rare, exceptional, extraordinary, unique, incomparable, unparalleled, matchless
 希世,きせい,rare, uncommon
@@ -38,7 +36,6 @@
 希土類元素,きどるいげんそ,rare-earth element, rare-earth metal
 奇病,きびょう,strange disease, rare disease
 偶に,たまに,occasionally, once in a while, now and then
-ミディアムレア,ミディアムレア,medium rare
 希,き,dilute
 邂逅,わくらば,by chance, coincidental, occasional, rare
 珍事,ちんじ,strange incident, unusual occurrence, rare event
@@ -87,23 +84,13 @@
 珍木,ちんぼく,unusual tree, rare tree, strange tree
 珍花,ちんか,unusual flower, rare flower
 希少部位,きしょうぶい,exclusive cut (of meat), rare cut
-レアメタル,レアメタル,rare metal, minor metal
-南京,ナンキン,Nanjing (China), Nanking
 幻,まぼろし,phantom, vision, illusion, apparition
 書換字,かきかえじ,substitute kanji, kanji used in place of another with the same meaning
-レアアース,レアアース,rare-earth element
-レアシュガー,レアシュガー,rare sugar
-レアケース,レアケース,rare case, outlier
-レア物,レアもの,rare item, rarity
-レアアイテム,レアアイテム,rare item, unusual item
 滅多に,めったに,rarely, seldom
 希薄,きはく,thin (air), weak (liquid), dilute, sparse (population), rarefied
 神引き,かみびき,acquiring a rare character or item (e.g. from a loot box)
-希ガス類,きガスるい,noble gases, rare gases
 盲亀浮木,もうきふぼく,unlikely event, rare occurrence
 盲亀の浮木,もうきのふぼく,unlikely event, rare occurrence
-コンプガチャ,コンプガチャ,method of awarding rare in-game items in mobile games only when the player has bought a full set of other in-game items
-コンプリートガチャ,コンプリートガチャ,method of awarding rare in-game items in mobile games only when the player has bought a full set of other in-game items
 異本,いほん,variant edition (of a book), alternative version, different manuscript
 優曇華,うどんげ,udumbara (mythical Indian plant often identified with the cluster fig, Ficus glomerata)
 水母の骨,くらげのほね,something that one would not expect to exist, something exceedingly rare, jellyfish bones
@@ -116,15 +103,8 @@
 珍芸,ちんげい,unusual trick, rarely seen skill
 疎密波,そみつは,compressional wave, longitudinal wave, dilatational wave, wave of condensation and rarefaction
 名物にうまいものなし,めいぶつにうまいものなし,the reality always falls short of the fame, local specialties rarely taste good
-テル・テイル・サインズ,テル・テイル・サインズ,The Bootleg Series Vol. 8 – Tell Tale Signs: Rare and Unreleased 1989–2006
-レア・バード,レア・バード,Rare Bird
 もやもや病,もやもやびょう,moyamoya disease (rare, progressive cerebrovascular disorder caused by blocked arteries in the basal ganglia)
 国鱒,くにます,Oncorhynchus nerka kawamurae (rare Japanese subspecies of sockeye salmon)
-コピー食品,コピーしょくひん,artificial food (fabricated to resemble rare or expensive foods)
-メガマウスザメ属,メガマウスザメぞく,Megachasma (genus of rare deep water megamouth sharks)
-ガンジスメジロザメ,ガンジスメジロザメ,Ganges shark (Glyphis gangeticus)
-メガマウス科,メガマウスか,Megachasmidae (family whose sole member is the rare deep water megamouth shark)
-レア・グルーヴ,レア・グルーヴ,Rare groove
 不明,ふめい,unclear, obscure, indistinct, uncertain, ambiguous
 曖昧模糊,あいまいもこ,obscure, vague, ambiguous
 漠然,ばくぜん,vague, obscure, indistinct, hazy, ambiguous
@@ -139,7 +119,6 @@
 不文明,ふぶんめい,indistinct, obscure
 晦渋,かいじゅう,ambiguous, obscure, equivocal
 朦朧,もうろう,dim, hazy, vague, indistinct, faint, fuzzy, cloudy, obscure
-マイナー,マイナー,minor, small, unimportant, obscure
 見えづらい,みえづらい,hard to see, indistinct, obscure, illegible
 見づらい,みづらい,hard to see, indistinct, obscure, illegible
 漠,ばく,vague, obscure
@@ -164,8 +143,6 @@
 先進国,せんしんこく,advanced (developed) country, advanced nations
 上級,じょうきゅう,upper level, upper grade, high rank, advanced level, senior level, upper class
 高齢,こうれい,advanced age, old age
-アドヴァンスト,アドヴァンスト,advanced
-アドバンスト,アドバンスト,advanced
 老齢,ろうれい,old age, advanced age
 進化,しんか,evolution
 上級者,じょうきゅうしゃ,advanced student, advanced learner, advanced practitioner, experienced person
@@ -182,7 +159,6 @@
 特論,とくろん,advanced or master's course at university
 詳細設定,しょうさいせってい,advanced settings
 先行制御,せんこうせいぎょ,advanced control
-ＡＧＲ,エー・ジー・アール,advanced gas-cooled reactor, AGR
 先進兵器,せんしんへいき,advanced weapon(ry)
 特少,とくしょう,advanced juvenile training school, special reformatory, juvenile hall for grave offenders
 進行がん,しんこうがん,advanced cancer
@@ -209,33 +185,13 @@
 大学院大学,だいがくいんだいがく,graduate university, university concentrating on graduate-level education and advanced research, research university
 繰り上がる,くりあがる,to move up (e.g. date, rank, order), to be advanced
 高等看護学院,こうとうかんごがくいん,advanced nursing institute, higher nursing academy
-遠隔保守システム,えんかくほしゅシステム,ASSIST, Advanced Service Support Information System Technology
-ＡＲＰＡＮＥＴ,アーパネット,Advanced Research Projects Agency Network, ARPANET
-先進ユーザ,せんしんユーザ,advanced user
-ハイアマチュア,ハイアマチュア,advanced amateur (esp. in photography)
 東京都立産業技術大学院大学,とうきょうとりつさんぎょうぎじゅつだいがくいんだいがく,Advanced Institute of Industrial Technology
-ＡＭＤ,エーエムディー,Advanced Micro Devices (semiconductor company), AMD
-アドバンスドオープンウオーターダイバー,アドバンスドオープンウオーターダイバー,advanced open water diver
-フレキシブルアドバンストアーキテクチャシステム,フレキシブルアドバンストアーキテクチャシステム,Flexible Advanced Systems Architecture
-ＰＡＣ３,パックスリー,Patriot advanced capability-3, PAC3 anti-ballistic missile system, PAC3 missile
-ＡＩＸ,エー・アイ・エックス,AIX (IBM's Unix operating system), Advanced Interactive Executive
 老境に入る,ろうきょうにいる,to be advanced in age
-高度通信システム相互接続,こうどつうしんシステムそうごせつぞく,HATS, Harmonization of Advanced Telecommunication Systems
-シーテック,シーテック,Combined Exhibition of Advanced Technologies (Electronics Show), CEATEC
 京都先端科学大学,きょうとせんたんかがくだいがく,Kyoto University of Advanced Science
-シーテック,シーテック,Combined Exhibition of Advanced Technologies (Electronics Show), CEATEC
 新知,しんち,new acquaintance
 編入学,へんにゅうがく,admission and placement (e.g. to a school), transfer admission, advanced-standing admission
-ロックスター・アドバンスド・ゲーム・エンジン,ロックスター・アドバンスド・ゲーム・エンジン,Rockstar Advanced Game Engine
-アドバンスト・インフォ・サービス,アドバンスト・インフォ・サービス,Advanced Info Service
-だいち,だいち,Advanced Land Observation Satellite
-アドバンスト・マイクロ・デバイセズ,アドバンスト・マイクロ・デバイセズ,Advanced Micro Devices
-アドバンストフォトシステム,アドバンストフォトシステム,Advanced Photo System
-アドバンスピコ・ビーナ,アドバンスピコ・ビーナ,Advanced Pico Beena
 御年,おんとし,age (esp. advanced)
 獣弓目,じゅうきゅうもく,Therapsida (order of advanced synapsids)
 段,だん,step, stair, rung, (flight of) steps
-ＡＴＯＫ,エイトック,ATOK (Advanced Technology Of Kana-kanji transfer), early Japanese IME
 天寿を全うする,てんじゅをまっとうする,to die a natural death (at an advanced age), to live out one's allotted span of life
 年を食う,としをくう,to grow older (esp. older than other people in the same group or situation), to advance in age, to be very aged
-アドバンスト・スコードリーダー,アドバンスト・スコードリーダー,Advanced Squad Leader
